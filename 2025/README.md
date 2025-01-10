@@ -1,0 +1,165 @@
+# Codemash 2025 Slides
+
+These are the sessions that happened on each day, listed alphabetically by title. As a speaker makes the slides and materials available, links will be added to the respective talks.
+
+## Tuesday Sessions (Precompilers)
+
+- Awesome Web Testing with Playwright
+- Build Your First 2D Game with Godot 4
+- Building a Web Component Library
+- Demystifying GenAI: Build a ChatGPT App with Vector Store
+- Dude, Who Broke My Linux Server?
+- Enhance Your AI Engineering Skills with System Design Katas
+- Enterprise Grade Micro Frontends
+- From Small Screens to Everywhere: Patterns for Universal Apps with Expo Router
+- GitHub Actions: From Zero to Hero
+- Hands-On Threat Modeling Workshop
+- Mindset for Success: you can program your brain too!
+- Plucking Data from Thin Air with Software-Defined Radio
+- Real World CI/CD with GitHub Actions: Beyond Basics
+- SwiftData Saves Codemash!
+- Systems Thinking Workshop - Visualizing Relationships and Knowing Where to Act
+- What is Your Working Genius? (Workshop)
+
+## Wednesday Sessions (Precompilers)
+
+- A Gentle Introduction to Security Testing Your Own Web Applications
+- Beyond the Paycheck: Crafting a Fulfilling Career in the Tech-Tonic Shift
+- Breaking Bad Code: A Web App PenTest Workshop
+- Dodging Dysentery with AI - An Oregon Trail themed Agentic/RAG Workshop.
+- Down the Rabbit Hole: Exploring Advanced Typescript
+- Equation to Animation: Crafting Dynamic Math Visuals on the Web
+- Game On: Mastering Process Design Through Play (Workshop)
+- Just Enough Career Skills
+- Launch, Scale, Succeed: Mastering DigitalOcean in 4 Hours
+- Mad Scientist Lab V2.0. Sharks on Mars!
+- My First Kubernetes Cluster
+- PostgreSQL Introduction for the SQL Server Developer or DBA
+- PowerShell 101: Unleash the Power of Automation
+- Scaling from One to Infinity: Building Simpler Distributed Applications with the Actor Model
+- Unlock the Power of Messaging Patterns
+- Using Test Doubles To Improve your Developer Confidence
+
+## Thursday Sessions (General Sessions + Bytesized Breakouts)
+
+- .NET in a Box: Containerizing .NET Applications
+- A Developer's Guide to Managing Attention
+- Advanced AT-AT Driver Training: Automate the Automation with Terraform
+- Analyzing 1 billion rows in SQL and how fast databases can really be
+- Analyzing and Critiquing Architectures
+- Attacker's Perspective: How attackers view your applications
+- Avoidifying Over-Complexification: Rooting Out Over-Engineering in Your Projects
+- Beyond Fake Agile: Building Purposeful, Validated Work Cycles
+- Beyond Leetcode: Redesigning Tech Interviews for the AI-Assisted Era
+- Bringing ideas to life with DIY IoT: Visualizing Noise Pollution with a Raspberry Pi and Python
+- Building a modern, native application for Windows: Which UI framework should you choose?
+- Caring for the Human Condition: Product Superpowers to Make Users Feel Superhuman
+- Component Libraries: The Foundation of Accessibility at Scale
+- Crafting AI: A Developer’s Guide to Machine Learning
+- Creating Intuitive APIs With The Builder Design Pattern
+- CSI Software Development: Use blameless post-mortems for learning and growth
+- Data Structures Crash Course
+- Debugging Leadership: What I've Learned About Leading People
+- Defense-in-depth engineering
+- Defining an API Specification: A Step-by-Step Guide
+- Design Patterns: Not Just for Architects
+- Designing Reusable Components…That Are Actually Reusable
+- Domain-Driven Refactoring
+- EmpowerHER in Tech: How to be an Effective Ally
+- Everyone Can Play! Building CTFs To Teach Non-Security Folks
+- Front=End Testing Framework Panel
+- Going Native: An intro for newcomers to mobile development
+- Going Solo: A Low-Risk Recipe For Going Independent
+- Home assistant and the art of troubleshooting
+- Home Automation - Without The Cloud!
+- Home Lab - Private Cloud on a budget
+- How CQRS can help you to elevate your system?
+- Human Intelligence: Reshaping the Narrative of Motivation and Performance
+- Into the OAuth-Verse: Exploring Multiverse-Level API Security
+- Introduction to Accessibility
+- Introduction to Unit Testing: Writing Fast, Effective, and Maintainable Test Suites
+- Is Vector Search Right for Me?
+- Lights, Camera, Github Actions!
+- Looking back at a lifetime of poor tech choices
+- MACH based Website Development in Minutes
+- Making Great Waves: 8 Software Testing Convictions
+- Microsoft’s Approach to Comprehensive Security in the Age of AI
+- Navigating Front-End Complexity: A Blueprint for building Frictionless Front-End Codebases
+- No Silver Bullet - Software Development Is About Learning
+- Peace, Love and Hacking: How to Bring Security & Development Teams Together to Address Risk
+- Psychological Safety: The Key Factor of Successful Teams
+- Raising Your Software's Quality : A Journey with Docker, Postman, and DevOps
+- Rescuing your GIT Repositories using Amend, Reset, Revert, Rebase, Bisect, and Cherry-Picking
+- Secrets Security End-To-End
+- Seems Good Enough to Me: Working with Test to Derisk Upgrades
+- Shorts on Sorts
+- Smart Home, Safe Home: Essential Tips for Securing Your IoT Devices
+- Soaring High with Pico Balloons:  Telemetry in Action - Intro
+- Stop Fearing Databases—SQL vs. NoSQL: Navigating the Database Dilemma
+- Swift Data Saves The Day
+- Technical Empathy
+- Testing Strategies for Monoliths and Microservices
+- The Agile Architect: Building Product From The Trenches, Not The Tower
+- The Angular Renaissance - Key New Features
+- Treat Your Primitive Obsession with Value Objects
+- Unlock the full potential of Azure with Bicep!
+- Using GPT Visual Capabilities to Solve a Wordle Puzzle
+- Using Web Components Like a Boss
+- Vue for React Developers
+- Want to advance in your career? Learn to get great feedback!
+- Word Smatter: Exploring Semantics, Testers, and Problems
+
+## Friday Sessions (General Sessions + Bytesized Breakouts)
+
+- .NET Apps Everywhere!
+- 5 Questions to Get You Started With UX
+- Advancing Your Threat Modeling Approaches in an Agile/DevOps World
+- Agile and Sustainable: A Pragmatic Approach to Sustainable Tech
+- Alone Together: Team-Building for Remote Teams
+- Architecting a Secure, Scalable, and Cost-Effective Health system
+- Authentication Demystified: Basic Auth to Web Tokens in 60 minutes
+- Automating your life with Home Assistant & Open Source
+- Be an Ally for Mobile A11y
+- Beyond the Hype: Generative AI vs. Traditional Methods in the Battle for Better Data
+- Blending Product Thinking with Architecture
+- Building and Automating CI/CD Workflows with Azure DevOps Pipelines
+- Building and publishing a native, cross-platform mobile app from the ground up
+- Building Asynchronous UIs Without The Hassle
+- Businesses Run On Risk And Debt: Why Communicating Security Risk Is Hard
+- Command your IoT Projects from the Terminal
+- Cross-Platform Healthcare Apps with .NET MAUI
+- Database DevOps: Managing Changes from Dev to Production with ease
+- DevOps is a Foreign Language (or Why There Are No Junior SREs)
+- Does Your API Need a REST? Check Out GraphQL
+- Dude, Where's my Bottleneck: Unlocking Performance with Unit Testing
+- Everything You Wanted To Know But Were Afraid To Ask About AI and Product Discovery
+- Florida Man Uses Cache as Database
+- From IC to EM: How to Know if Management is Right for You
+- Git On My Level: Bridging Knowledge with Practical Solutions
+- Hidden Dangers Of AI In Developer Workflows: Navigating Security Risks with Human Insight
+- How to Win Friends and Influence...Better Developer Estimates
+- Is Everyone AI-ing Without Me? A .NET Developers Guide to Development with AI
+- IT Problem Solving Adventures: Seas the Day!
+- Keeping Your Intelligence Local (and Cheap)
+- Make Your Native iOS Apps Accessible To Everyone
+- Making Predictions Out of Thin Air: Data Science's Ultimate Hack
+- Mind Mechanics: Fine-Tuning Cognitive Function for the Engineering Mind
+- Modularizing the Monolith
+- Off-Grid Communication with LoRa and Meshtastic
+- Onboarding and Mentoring:  A Surprisingly Winning Combination
+- Owning Your Experience: Talking about Mental Health In the Workplace
+- Scaling Automated Tests to Infinity and Beyond
+- Scaling from One to Infinity: Simpler Distributed Applications with the Actor Model
+- Simplified Animations on the Web
+- SPAs Without Javascript: Simplify Your Stack
+- Stop Alert Fatigue, Monitor What Matters
+- Strengthening Your Foundation: The Power of Architectural Testing
+- Surviving Tech Layoffs: Harder, Better, Faster, Stronger
+- Tame Cross-Cutting Concerns in Your Code!
+- Testing Treasure Maps: The Art of Crafting Charters
+- The Dark Side of Design Patterns: What They Don't Tell You
+- The Power of Feature Flags in CSS Development
+- The Unified Code Base
+- Thinking Architecturally
+- What is Your Working Genius?
+
