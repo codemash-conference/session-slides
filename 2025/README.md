@@ -140,7 +140,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - How to Win Friends and Influence...Better Developer Estimates
 - Is Everyone AI-ing Without Me? A .NET Developers Guide to Development with AI
 - IT Problem Solving Adventures: Seas the Day!
-- Keeping Your Intelligence Local (and Cheap)
+- [Keeping Your Intelligence Local (and Cheap)](https://github.com/coatsnmore/keeping-your-intelligence-local/tree/main/presentation)
 - Make Your Native iOS Apps Accessible To Everyone
 - Making Predictions Out of Thin Air: Data Science's Ultimate Hack
 - Mind Mechanics: Fine-Tuning Cognitive Function for the Engineering Mind
