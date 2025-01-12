@@ -100,7 +100,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Technical Empathy
 - Testing Strategies for Monoliths and Microservices
 - The Agile Architect: Building Product From The Trenches, Not The Tower
-- The Angular Renaissance - Key New Features
+- [The Angular Renaissance - Key New Features](https://tinyurl.com/codeMashNgRen)
 - Treat Your Primitive Obsession with Value Objects
 - Unlock the full potential of Azure with Bicep!
 - Using GPT Visual Capabilities to Solve a Wordle Puzzle
