@@ -10,7 +10,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Demystifying GenAI: Build a ChatGPT App with Vector Store
 - Dude, Who Broke My Linux Server?
 - Enhance Your AI Engineering Skills with System Design Katas
-- Enterprise Grade Micro Frontends
+- [Enterprise Grade Micro Frontends](https://davidnic11.github.io/workshop-enterprise-grade-micro-frontends/00-title)
 - From Small Screens to Everywhere: Patterns for Universal Apps with Expo Router
 - GitHub Actions: From Zero to Hero
 - Hands-On Threat Modeling Workshop
@@ -27,7 +27,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Beyond the Paycheck: Crafting a Fulfilling Career in the Tech-Tonic Shift
 - Breaking Bad Code: A Web App PenTest Workshop
 - Dodging Dysentery with AI - An Oregon Trail themed Agentic/RAG Workshop.
-- Down the Rabbit Hole: Exploring Advanced Typescript
+- [Down the Rabbit Hole: Exploring Advanced Typescript](https://davidnic11.github.io/workshop-advanced-typescript/1)
 - Equation to Animation: Crafting Dynamic Math Visuals on the Web
 - Game On: Mastering Process Design Through Play (Workshop)
 - Just Enough Career Skills
@@ -94,7 +94,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Seems Good Enough to Me: Working with Test to Derisk Upgrades
 - Shorts on Sorts
 - Smart Home, Safe Home: Essential Tips for Securing Your IoT Devices
-- Soaring High with Pico Balloons:  Telemetry in Action - Intro
+- Soaring High with Pico Balloons: Telemetry in Action - Intro
 - Stop Fearing Databases—SQL vs. NoSQL: Navigating the Database Dilemma
 - Swift Data Saves The Day
 - Technical Empathy
@@ -146,7 +146,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Mind Mechanics: Fine-Tuning Cognitive Function for the Engineering Mind
 - Modularizing the Monolith
 - Off-Grid Communication with LoRa and Meshtastic
-- Onboarding and Mentoring:  A Surprisingly Winning Combination
+- Onboarding and Mentoring: A Surprisingly Winning Combination
 - Owning Your Experience: Talking about Mental Health In the Workplace
 - Scaling Automated Tests to Infinity and Beyond
 - Scaling from One to Infinity: Simpler Distributed Applications with the Actor Model
@@ -162,4 +162,3 @@ These are the sessions that happened on each day, listed alphabetically by title
 - The Unified Code Base
 - Thinking Architecturally
 - What is Your Working Genius?
-
