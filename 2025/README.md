@@ -48,7 +48,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Analyzing 1 billion rows in SQL and how fast databases can really be
 - Analyzing and Critiquing Architectures
 - Attacker's Perspective: How attackers view your applications
-- Avoidifying Over-Complexification: Rooting Out Over-Engineering in Your Projects
+- [Avoidifying Over-Complexification: Rooting Out Over-Engineering in Your Projects](https://github.com/trailheadtechnology/ai-for-dotnet)
 - Beyond Fake Agile: Building Purposeful, Validated Work Cycles
 - Beyond Leetcode: Redesigning Tech Interviews for the AI-Assisted Era
 - Bringing ideas to life with DIY IoT: Visualizing Noise Pollution with a Raspberry Pi and Python
@@ -138,7 +138,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Git On My Level: Bridging Knowledge with Practical Solutions
 - Hidden Dangers Of AI In Developer Workflows: Navigating Security Risks with Human Insight
 - How to Win Friends and Influence...Better Developer Estimates
-- Is Everyone AI-ing Without Me? A .NET Developers Guide to Development with AI
+- [Is Everyone AI-ing Without Me? A .NET Developers Guide to Development with AI](https://github.com/trailheadtechnology/ai-for-dotnet)
 - IT Problem Solving Adventures: Seas the Day!
 - [Keeping Your Intelligence Local (and Cheap)](https://github.com/coatsnmore/keeping-your-intelligence-local/tree/main/presentation)
 - Make Your Native iOS Apps Accessible To Everyone
