@@ -62,7 +62,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Debugging Leadership: What I've Learned About Leading People
 - Defense-in-depth engineering
 - Defining an API Specification: A Step-by-Step Guide
-- Design Patterns: Not Just for Architects
+- [Design Patterns: Not Just for Architects](https://github.com/jeremybytes/learning-design-patterns)
 - Designing Reusable Components…That Are Actually Reusable
 - Domain-Driven Refactoring
 - EmpowerHER in Tech: How to be an Effective Ally
