@@ -52,7 +52,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Beyond Fake Agile: Building Purposeful, Validated Work Cycles
 - Beyond Leetcode: Redesigning Tech Interviews for the AI-Assisted Era
 - Bringing ideas to life with DIY IoT: Visualizing Noise Pollution with a Raspberry Pi and Python
-- Building a modern, native application for Windows: Which UI framework should you choose?
+- [Building a modern, native application for Windows: Which UI framework should you choose?](https://github.com/alvinashcraft/speaking/tree/main/2025/0115_CodeMash)
 - Caring for the Human Condition: Product Superpowers to Make Users Feel Superhuman
 - Component Libraries: The Foundation of Accessibility at Scale
 - Crafting AI: A Developer’s Guide to Machine Learning
