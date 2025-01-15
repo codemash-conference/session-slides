@@ -13,7 +13,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Enterprise Grade Micro Frontends
 - From Small Screens to Everywhere: Patterns for Universal Apps with Expo Router
 - GitHub Actions: From Zero to Hero
-- Hands-On Threat Modeling Workshop
+- [Hands-On Threat Modeling Workshop](https://github.com/rhurlbut/CodeMash2025)
 - Mindset for Success: you can program your brain too!
 - Plucking Data from Thin Air with Software-Defined Radio
 - Real World CI/CD with GitHub Actions: Beyond Basics
@@ -113,7 +113,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 
 - .NET Apps Everywhere!
 - 5 Questions to Get You Started With UX
-- Advancing Your Threat Modeling Approaches in an Agile/DevOps World
+- [Advancing Your Threat Modeling Approaches in an Agile/DevOps World](https://github.com/rhurlbut/CodeMash2025)
 - Agile and Sustainable: A Pragmatic Approach to Sustainable Tech
 - Alone Together: Team-Building for Remote Teams
 - Architecting a Secure, Scalable, and Cost-Effective Health system
