@@ -18,7 +18,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Plucking Data from Thin Air with Software-Defined Radio
 - Real World CI/CD with GitHub Actions: Beyond Basics
 - SwiftData Saves Codemash!
-- Systems Thinking Workshop - Visualizing Relationships and Knowing Where to Act
+- [Systems Thinking Workshop - Visualizing Relationships and Knowing Where to Act](https://www.dojoandco.com/speaking)
 - What is Your Working Genius? (Workshop)
 
 ## Wednesday Sessions (Precompilers)
@@ -121,7 +121,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Automating your life with Home Assistant & Open Source
 - Be an Ally for Mobile A11y
 - Beyond the Hype: Generative AI vs. Traditional Methods in the Battle for Better Data
-- Blending Product Thinking with Architecture
+- [Blending Product Thinking with Architecture](https://www.dojoandco.com/speaking)
 - Building and Automating CI/CD Workflows with Azure DevOps Pipelines
 - Building and publishing a native, cross-platform mobile app from the ground up
 - Building Asynchronous UIs Without The Hassle
