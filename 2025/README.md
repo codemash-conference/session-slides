@@ -33,7 +33,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Just Enough Career Skills
 - Launch, Scale, Succeed: Mastering DigitalOcean in 4 Hours
 - Mad Scientist Lab V2.0. Sharks on Mars!
-- My First Kubernetes Cluster
+- [My First Kubernetes Cluster](https://github.com/OtherDevOpsGene/my-first-kubernetes)
 - PostgreSQL Introduction for the SQL Server Developer or DBA
 - PowerShell 101: Unleash the Power of Automation
 - Scaling from One to Infinity: Building Simpler Distributed Applications with the Actor Model
