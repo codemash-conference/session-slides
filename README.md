@@ -9,6 +9,7 @@ This repo will host the slides that speakers have shared with us from 2024 onwar
 
 - Fork this repository
 - Create a Branch with your addition or change
+  - Find the readme under the relevant year folder and link your slides to the talk title 
 - Submit a pull request with this repo as the upstream main
 - Your PR will be reviewed by the speaker committee
 
