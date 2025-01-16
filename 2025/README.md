@@ -101,7 +101,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Testing Strategies for Monoliths and Microservices
 - The Agile Architect: Building Product From The Trenches, Not The Tower
 - [The Angular Renaissance - Key New Features](https://tinyurl.com/codeMashNgRen)
-- Treat Your Primitive Obsession with Value Objects
+- [Treat Your Primitive Obsession with Value Objects](./treat-primitive-obsession-with-value-objects.pdf) - also recorded and will be on YouTube.com/ardalis
 - Unlock the full potential of Azure with Bicep!
 - Using GPT Visual Capabilities to Solve a Wordle Puzzle
 - Using Web Components Like a Boss
