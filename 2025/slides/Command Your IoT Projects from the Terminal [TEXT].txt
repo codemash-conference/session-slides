@@ -1,0 +1,471 @@
+ __| |_________________________________________| |__
+(__   _________________________________________   __)
+   | |     _            _       _              | |
+   | |    / \   _ __ __| |_   _(_)_ __   ___   | |
+   | |   / _ \ | '__/ _` | | | | | '_ \ / _ \  | |
+   | |  / ___ \| | | (_| | |_| | | | | | (_) | | |
+   | | /_/   \_\_|  \__,_|\__,_|_|_| |_|\___/  | |
+ __| |_________________________________________| |__
+(__   _________________________________________   __)
+   | |                                         | |
+
+export IOT=~/iot
+export WORK=$IOT/work
+
+
+═╬═════════════════════►
+   INSTALL
+
+cd $IOT; mkdir $IOT/arduino; cd ./arduino
+curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh | sh
+
+
+═╬═════════════════════►
+   CHECK/STATUS
+
+arduino-cli version git ls-remote --tags https://github.com/arduino/arduino-cli | tail -1
+
+arduino-cli config dump
+arduino-cli core list
+arduino-cli lib list
+arduino-cli outdated
+
+
+═╬═════════════════════►
+   UPDATE
+
+arduino-cli core update-index arduino-cli core upgrade
+arduino-cli lib update-index arduino-cli lib upgrade
+arduino-cli update arduino-cli upgrade
+
+
+═╬═════════════════════►
+   BOARD SUPPORT
+
+arduino-cli config add board_manager.additional_urls https://adafruit.github.io/arduino-board-index/package_adafruit_index.json
+
+arduino-cli core update-index
+arduino-cli board search adafruit | grep samd
+arduino-cli core install adafruit:samd
+arduino-cli board listall samd
+arduino-cli board details -b adafruit:samd:adafruit_sht4xtrinkey_m0
+
+
+═╬═════════════════════►
+   CREATE/EDIT PROJECT
+
+cd $WORK/Arduino
+
+arduino-cli sketch new trinkey_neopixel_blink
+
+nano $WORK/Arduino/trinkey_neopixel_blink.ino
+
+
+═╬═════════════════════►
+   COMPILE/UPLOAD & MONITOR
+
+arduino-cli compile -vu -b adafruit:samd:adafruit_sht4xtrinkey_m0 $WORK/Arduino/trinkey_neopixel_blink -p /dev/ttyACM0
+
+arduino-cli monitor -p /dev/ttyACM0
+minicom -D /dev/ttyACM0
+
+
+═╬═════════════════════►
+   LIBRARIES
+
+arduino-cli lib list
+arduino-cli lib search {$SEARCH}
+arduino-cli lib download “{$NAME}”
+arduino-cli lib install “{$NAME}”
+
+arduino-cli lib update-index
+arduino-cli lib upgrade
+
+
+,--. ,---.,-.-.,---.
+|   ||--- | | ||   |
+`--' `---'` ' '`---'
+
+cd $IOT/work/arduino
+ls /dev/serial/*;  find /sys/bus/usb/devices/usb*/ -name dev | grep tty
+arduino-cli board listall rp2040 | grep "Raspberry Pi"
+cat ./blink/blink.ino
+arduino-cli compile -vu -b rp2040:rp2040:rpipico2  $IOT/work/arduino/blink -p /dev/ttyACM0
+arduino-cli monitor -p /dev/ttyACM0
+minicom -w -D /dev/ttyACM0
+
+
+
+ __| |________________________________________| |__
+(__   ________________________________________   __)
+   | |  ____  _             ____  ____  _  __ | |
+   | | |  _ \(_) ___ ___   / ___||  _ \| |/ / | |
+   | | | |_) | |/ __/ _ \  \___ \| | | | ' /  | |
+   | | |  __/| | (_| (_) |  ___) | |_| | . \  | |
+   | | |_|   |_|\___\___/  |____/|____/|_|\_\ | |
+ __| |________________________________________| |__
+(__   ________________________________________   __)
+   | |                                        | |
+
+
+export IOT=~/iot
+export WORK=$IOT/work
+
+
+═╬═════════════════════►
+   INSTALL
+
+sudo apt install cmake gcc-arm-none-eabi libnewlib-arm-none-eabi build-essential g++ libstdc++-arm-none-eabi-newlib
+
+cd $IOT; wget https://raw.githubusercontent.com/raspberrypi/pico-setup/master/pico_setup.sh;  chmod +x pico_setup.sh; ./pico_setup.sh
+
+
+which picotool; picotool version; git ls-remote --tags $(cd $IOT/pico/picotool; git config --get remote.origin.url) | tail -1
+
+
+═╬═════════════════════►
+   CHECK/STATUS
+
+which picotool; picotool version; git ls-remote --tags $(cd $IOT/pico/picotool; git config --get remote.origin.url) | tail -1
+
+ls $IOT/pico 
+for PICO_REPO in $(ls $IOT/pico/); do cd $IOT/pico/$PICO_REPO;  git fetch ; git status; done
+
+
+═╬═════════════════════►
+   UPDATE
+
+cd $IOT/pico/$PICO-REPO git fetch ; git status
+git submodule update --recursive --remote git restore . --recurse-submodules git clean -df -f
+git pull git submodule update
+git fetch ; git status
+
+PICO_REPO=$(ls -d $IOT/pico/*  | awk -F"/" {'print $NF'}); echo $PICO_REPO
+
+
+═╬═════════════════════►
+   BOARD SUPPORT
+
+sudo $IOT/pico/picotool/build/picotool info -a
+
+udevadm info -q all -n /dev/ttyACM0
+
+ls $IOT/pico/pico-sdk/src/boards/include/boards/
+
+
+═╬═════════════════════►
+   CREATE/EDIT PROJECT
+
+cd $IOT/work/pico;  mkdir HelloWorld; cd HelloWorld; pwd
+touch HelloWorld.c
+touch CMakeLists.txt
+
+nano HelloWorld.c
+nano CMakeLists.txt
+
+
+═╬═════════════════════►
+   COMPILE/UPLOAD & MONITOR
+
+rm -rf ./build; mkdir build; cd build export PICO_SDK_PATH=$IOT/pico/pico-sdk
+cmake -DPICO_BOARD=adafruit_feather_rp2350 ..
+make -j4
+ls *.uf2 ; ls /media/$USER
+cp *.uf2 /media/$USER/RP2350/
+
+minicom -D /dev/ttyACM0
+
+
+═╬═════════════════════►
+   LIBRARIES
+
+ls $IOT/pico/pico-examples/i2c
+
+https://forums.raspberrypi.com/viewtopic.php?t=305620
+
+
+,--. ,---.,-.-.,---.
+|   ||--- | | ||   |
+`--' `---'` ' '`---'
+
+cd $IOT/work/pico/blink
+ls $IOT/pico/pico-sdk/src/boards/include/boards
+picotool info -a -F
+cat blink.c cat CMakeLists.txt
+rm -rf ./build && mkdir build && cd build && pwd cmake -DPICO_BOARD=pico2 -DPICO_PLATFORM=rp2350 .. make -j4
+picotool load blink.uf2 -f picotool reboot -a
+minicom -w -D /dev/ttyACM0
+
+
+
+ __| |_________________________________________| |__
+(__   _________________________________________   __)
+   | |  _____ ____  ____      ___ ____  _____  | |
+   | | | ____/ ___||  _ \    |_ _|  _ \|  ___| | |
+   | | |  _| \___ \| |_) |____| || | | | |_    | |
+   | | | |___ ___) |  __/_____| || |_| |  _|   | |
+   | | |_____|____/|_|       |___|____/|_|     | |
+ __| |_________________________________________| |__
+(__   _________________________________________   __)
+   | |                                         | |
+
+
+export IOT=~/iot
+export WORK=$IOT/work
+
+
+═╬═════════════════════►
+   INSTALL
+
+sudo apt install git wget flex bison gpref python3 python3-venv cmake ninja-build ccache libffi-dev
+
+mkdir $IOT/esp && cd $_; git clone --recursive https://github.com/espressif/esp-idf.git
+
+cd $IOT/esp/esp-idf; ./install.sh
+
+python -m pip install --upgrade esptool --break-system-packages
+
+    
+═╬═════════════════════►
+   CHECK/STATUS
+
+cd $IOT/esp-idf
+. ./export.sh
+
+python -m esptool version
+git ls-remote --tags https://github.com/espressif/esptool | tail -1
+
+idf.py —version
+git ls-remote --tags https://github.com/espressif/esp-idf | tail -1
+
+
+═╬═════════════════════►
+   BOARD SUPPORT
+
+python -m esptool -p /dev/ttyACM0 chip_id
+idf.py —list-targets
+idf.py set-target esp32s3
+idf.py menuconfig
+
+
+═╬═════════════════════►
+   CREATE/EDIT PROJECT
+
+cd $IOT/work/esp-idf/
+. $IOT/esp-idf/export.sh; idf.py --version
+idf.py create-project blink-led
+
+nano ./main/blink-led.c
+
+
+═╬═════════════════════►
+   COMPILE/UPLOAD & MONITOR
+
+idf.py --list-targets
+idf.py set-target esp32s3
+idf.py menuconfig
+idf.py build
+idf.py /dev/ttyUSB0 flash
+
+idf.py monitor
+
+
+═╬═════════════════════►
+   LIBRARIES
+
+cd $IOT/esp; git clone --recursive https://github.com/UncleRus/esp-idf-lib.git
+
+ls $IOT/esp/esp-idf-lib/components
+
+
+,--. ,---.,-.-.,---.
+|   ||--- | | ||   |
+`--' `---'` ' '`---'
+
+cd $IOT/work/esp-idf/blink-led
+ls /dev/serial/* && find /sys/bus/usb/devices/usb*/ -name dev | grep tty
+idf.py --list-targets python -m esptool -p /dev/ttyACM0 chip_id
+cat ./main/blink-led.c cat ./main/CMakeLists.txt
+idf.py set-target esp32s3 idf.py build idf.py -p /dev/ttyACM0 flash monitor
+
+
+
+ __| |__________________________________________________________________| |__
+(__   __________________________________________________________________   __)
+   | |                                                                  | |
+   | |   ____ _                _ _   ____        _   _                  | |
+   | |  / ___(_)_ __ ___ _   _(_) |_|  _ \ _   _| |_| |__   ___  _ __   | |
+   | | | |   | | '__/ __| | | | | __| |_) | | | | __| '_ \ / _ \| '_ \  | |
+   | | | |___| | | | (__| |_| | | |_|  __/| |_| | |_| | | | (_) | | | | | |
+   | |  \____|_|_|  \___|\__,_|_|\__|_|    \__, |\__|_| |_|\___/|_| |_| | |
+   | |                                     |___/                        | |
+ __| |__________________________________________________________________| |__
+(__   __________________________________________________________________   __)
+   | |                                                                  | |
+
+
+export IOT=~/iot
+export WORK=$IOT/work
+export PY_BOARD=$IOT/circuitpython/tools/pyboard.py
+
+
+═╬═════════════════════►
+   INSTALL
+
+sudo apt install build-essential libffi-dev git pkg-config cmake gcc-arm-none-eabi libnewlib-arm-none-eabi build-essential
+
+cd $IOT; git clone https://github.com/adafruit/circuitpython.git
+
+python -m pip install --upgrade circup --break-system-packages
+
+              
+═╬═════════════════════►
+   CHECK/STATUS
+
+find /sys/bus/usb/devices/usb*/ -name dev | grep tty lsblk; ls -laR /media/*; mount | grep media
+
+IOT_USB_SERIAL=ttyACM0 sudo ~/iot/pico/picotool/build/picotool info -aF python -m esptool -p /dev/$IOT_USB_SERIAL chip_id  udevadm info -q all -n /dev/$IOT_USB_SERIAL
+
+minicom -w -D /dev/$IOT_USB_SERIAL >>> import board >>> dir(board)
+
+picotool reboot
+
+python3 $PY_BOARD -c 'print("Hello World")' python3 $PY_BOARD -c 'import board; print(dir(board))'
+
+
+═╬═════════════════════►
+   BOARD SUPPORT
+
+ls -d ~/iot/circuitpython/ports/*/boards/*/
+
+wget -q -O -  https://circuitpython.org/board/raspberry_pi_pico2/ | grep -io '['"'"'"][^"'"'"']*['"'"'"]' | grep org.bin | grep en_US | sort -u | tail -1 | tr -d '"'
+
+wget $(wget -q -O -  https://circuitpython.org/board/raspberry_pi_pico2/ | grep -io '['"'"'"][^"'"'"']*['"'"'"]' | grep org.bin | grep en_US | sort -u | tail -1 | tr -d '"') -P $IOT/bin
+
+ls $IOT/bin
+
+picotool erase -f
+picotool load $IOT/bin/adafruit-circuitpython-adafruit_qtpy_rp2040-en_US-9.2.2.uf2 
+picotool reboot
+
+cp $IOT/bin/adafruit-circuitpython-adafruit_qtpy_rp2040-en_US-9.2.2.uf2 /media/$USER/RPI-RP2
+
+
+═╬═════════════════════►
+   EDIT/RUN CODE
+
+export PY_BOARD=$IOT/circuitpython/tools/pyboard.py
+cd $IOT/work/circuitpython/pico
+
+python3 $PY_BOARD -c 'print("Hello World")'
+
+nano hello_world.py
+python3 $PY_BOARD hello_world.py
+cp hello_world.py /media/$USER/CIRCUITPY/code.py
+
+
+,--. ,---.,-.-.,---.
+|   ||--- | | ||   |
+`--' `---'` ' '`---'
+
+cd $IOT/work/circuitpython/pico
+PY_BOARD=$IOT/circuitpython/tools/pyboard.py
+python3 $PY_BOARD -c 'print("Hello World")'
+minicom -w -D /dev/ttyACM0
+print("Hello World")
+cat map_pins.py
+python3 $PY_BOARD map_pins.py
+cat scan_i2c.py
+python3 $PY_BOARD scan_i2c.py
+
+
+
+
+ __| |_____________________________________________________________| |__
+(__   _____________________________________________________________   __)
+   | |                                                             | |
+   | |  __  __ _                ____        _   _                  | |
+   | | |  \/  (_) ___ _ __ ___ |  _ \ _   _| |_| |__   ___  _ __   | |
+   | | | |\/| | |/ __| '__/ _ \| |_) | | | | __| '_ \ / _ \| '_ \  | |
+   | | | |  | | | (__| | | (_) |  __/| |_| | |_| | | | (_) | | | | | |
+   | | |_|  |_|_|\___|_|  \___/|_|    \__, |\__|_| |_|\___/|_| |_| | |
+   | |                                |___/                        | |
+ __| |_____________________________________________________________| |__
+(__   _____________________________________________________________   __)
+   | |                                                             | |
+
+
+export IOT=~/iot
+export WORK=$IOT/work
+PY_BOARD=$IOT/micropython/tools/pyboard.py
+
+
+═╬═════════════════════►
+   INSTALL
+
+sudo apt install build-essential libffi-dev git pkg-config cmake gcc-arm-none-eabi libnewlib-arm-none-eabi build-essential
+
+cd $IOT; git clone https://github.com/micropython/micropython.git --branch master
+
+python -m pip install --upgrade mpremote --break-system-packages
+
+
+═╬═════════════════════►
+   CHECK/STATUS
+
+find /sys/bus/usb/devices/usb*/ -name dev | grep tty lsblk; ls -laR /media/*; mount | grep media
+
+IOT_USB_SERIAL=ttyACM0 sudo ~/iot/pico/picotool/build/picotool info -aF python -m esptool -p /dev/$IOT_USB_SERIAL chip_id  udevadm info -q all -n /dev/$IOT_USB_SERIAL
+
+minicom -w -D /dev/$IOT_USB_SERIAL >>> import machine >>> dir(machine.Pin)
+
+picotool reboot
+
+python3 $PY_BOARD -c 'print("Hello World")' python3 $PY_BOARD -c 'import machine; print(dir(machine.Pin))’
+
+
+═╬═════════════════════►
+   BOARD SUPPORT
+
+ls -d ~/iot/micropython/ports/*/boards/*/
+
+wget -q -O - https://micropython.org/download/RPI_PICO2/ | grep -io '['"'"'"][^"'"'"']*['"'"'"]' | grep firmware | grep -Ev "preview" | sort -u | head -2 | tail -1 | tr -d '"'
+
+wget https://micropython.org/$(wget -q -O - https://micropython.org/download/RPI_PICO2/ | grep -io '['"'"'"][^"'"'"']*['"'"'"]' | grep firmware | grep -Ev "preview" | sort -u | head -2 | tail -1 | tr -d '"') -P $IOT/bin
+
+ls $IOT/bin
+
+picotool erase -f
+picotool load $IOT/bin/ADAFRUIT_QTPY_RP2040-20241129-v1.24.1.uf2
+picotool reboot
+
+cp $IOT/bin/ADAFRUIT_QTPY_RP2040-20241129-v1.24.1.uf2 /media/$USER/RPI-RP2
+
+
+═╬═════════════════════►
+   EDIT/RUN CODE
+
+export PY_BOARD=$IOT/micropython/tools/pyboard.py
+cd $IOT/work/micropython/pico
+
+python3 $PY_BOARD -c 'print("Hello World")'
+mpremote exec 'print("Hello World")'
+
+nano hello_world.py
+python3 $PY_BOARD hello_world.py
+cp hello_world.py /media/$USER/MICROPY/code.py
+
+
+,--. ,---.,-.-.,---.
+|   ||--- | | ||   |
+`--' `---'` ' '`---'
+
+cd $IOT/work/micropython/pico
+PY_BOARD=$IOT/micropython/tools/pyboard.py
+python3 $PY_BOARD -c 'print("Hello World")'
+minicom -w -D /dev/ttyACM0
+print("Hello World")
+cat map_pins.py
+python3 $PY_BOARD map_pins.py
+cat scan_i2c.py
+python3 $PY_BOARD scan_i2c.py
