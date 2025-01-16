@@ -126,7 +126,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Building and publishing a native, cross-platform mobile app from the ground up
 - Building Asynchronous UIs Without The Hassle
 - Businesses Run On Risk And Debt: Why Communicating Security Risk Is Hard
-- Command your IoT Projects from the Terminal
+- [Command your IoT Projects from the Terminal](slides/Command_Your_IoT_Projects_from_the_Terminal.pdf) [(txt file)](slides/Command_Your_IoT_Projects_from_the_Terminal_TEXT.txt)
 - Cross-Platform Healthcare Apps with .NET MAUI
 - Database DevOps: Managing Changes from Dev to Production with ease
 - DevOps is a Foreign Language (or Why There Are No Junior SREs)
