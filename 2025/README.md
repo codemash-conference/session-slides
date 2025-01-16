@@ -30,7 +30,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [Down the Rabbit Hole: Exploring Advanced Typescript](https://davidnic11.github.io/workshop-advanced-typescript/1)
 - Equation to Animation: Crafting Dynamic Math Visuals on the Web
 - Game On: Mastering Process Design Through Play (Workshop)
-- Just Enough Career Skills
+- [Just Enough Career Skills](slides/just-enough-career-skills.pdf)
 - Launch, Scale, Succeed: Mastering DigitalOcean in 4 Hours
 - Mad Scientist Lab V2.0. Sharks on Mars!
 - [My First Kubernetes Cluster](https://github.com/OtherDevOpsGene/my-first-kubernetes)
