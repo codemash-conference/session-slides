@@ -55,7 +55,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [Building a modern, native application for Windows: Which UI framework should you choose?](https://github.com/alvinashcraft/speaking/tree/main/2025/0115_CodeMash)
 - Caring for the Human Condition: Product Superpowers to Make Users Feel Superhuman
 - Component Libraries: The Foundation of Accessibility at Scale
-- Crafting AI: A Developer’s Guide to Machine Learning
+- [Crafting AI: A Developer’s Guide to Machine Learning](https://cognitiveinheritance.com/Presentations/Workshop/CraftingAI/index.html)
 - Creating Intuitive APIs With The Builder Design Pattern
 - CSI Software Development: Use blameless post-mortems for learning and growth
 - Data Structures Crash Course
