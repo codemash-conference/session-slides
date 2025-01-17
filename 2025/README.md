@@ -111,7 +111,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 
 ## Friday Sessions (General Sessions + Bytesized Breakouts)
 
-- .NET Apps Everywhere!
+- [.NET Apps Everywhere!](./slides/net-apps-everywhere-uno.pptx)
 - 5 Questions to Get You Started With UX
 - [Advancing Your Threat Modeling Approaches in an Agile/DevOps World](https://github.com/rhurlbut/CodeMash2025)
 - Agile and Sustainable: A Pragmatic Approach to Sustainable Tech
