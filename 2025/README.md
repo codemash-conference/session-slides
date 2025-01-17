@@ -60,7 +60,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - CSI Software Development: Use blameless post-mortems for learning and growth
 - Data Structures Crash Course
 - Debugging Leadership: What I've Learned About Leading People
-- Defense-in-depth engineering
+- [Defense-in-depth engineering](./slides/codemash-Defense-in-Depth-engineering.pdf)
 - Defining an API Specification: A Step-by-Step Guide
 - [Design Patterns: Not Just for Architects](https://github.com/jeremybytes/learning-design-patterns)
 - Designing Reusable Components…That Are Actually Reusable
