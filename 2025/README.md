@@ -75,7 +75,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Home Lab - Private Cloud on a budget
 - How CQRS can help you to elevate your system?
 - Human Intelligence: Reshaping the Narrative of Motivation and Performance
-- Into the OAuth-Verse: Exploring Multiverse-Level API Security
+- [Into the OAuth-Verse: Exploring Multiverse-Level API Security](https://github.com/rettigcd/session-slides.git)
 - Introduction to Accessibility
 - Introduction to Unit Testing: Writing Fast, Effective, and Maintainable Test Suites
 - Is Vector Search Right for Me?
