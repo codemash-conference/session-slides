@@ -152,7 +152,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Scaling from One to Infinity: Simpler Distributed Applications with the Actor Model
 - Simplified Animations on the Web
 - SPAs Without Javascript: Simplify Your Stack
-- Stop Alert Fatigue, Monitor What Matters
+- [Stop Alert Fatigue, Monitor What Matters](.slides/stop_alert_fatigue_2025.pdf)
 - Strengthening Your Foundation: The Power of Architectural Testing
 - Surviving Tech Layoffs: Harder, Better, Faster, Stronger
 - Tame Cross-Cutting Concerns in Your Code!
