@@ -55,12 +55,12 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [Building a modern, native application for Windows: Which UI framework should you choose?](https://github.com/alvinashcraft/speaking/tree/main/2025/0115_CodeMash)
 - Caring for the Human Condition: Product Superpowers to Make Users Feel Superhuman
 - Component Libraries: The Foundation of Accessibility at Scale
-- Crafting AI: A Developer’s Guide to Machine Learning
+- [Crafting AI: A Developer’s Guide to Machine Learning](https://cognitiveinheritance.com/Presentations/Workshop/CraftingAI/index.html)
 - Creating Intuitive APIs With The Builder Design Pattern
 - CSI Software Development: Use blameless post-mortems for learning and growth
 - Data Structures Crash Course
 - Debugging Leadership: What I've Learned About Leading People
-- Defense-in-depth engineering
+- [Defense-in-depth engineering](./slides/codemash-Defense-in-Depth-engineering.pdf)
 - Defining an API Specification: A Step-by-Step Guide
 - [Design Patterns: Not Just for Architects](https://github.com/jeremybytes/learning-design-patterns)
 - Designing Reusable Components…That Are Actually Reusable
@@ -101,7 +101,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Testing Strategies for Monoliths and Microservices
 - The Agile Architect: Building Product From The Trenches, Not The Tower
 - [The Angular Renaissance - Key New Features](https://tinyurl.com/codeMashNgRen)
-- Treat Your Primitive Obsession with Value Objects
+- [Treat Your Primitive Obsession with Value Objects](./treat-primitive-obsession-with-value-objects.pdf) - also recorded and will be on YouTube.com/ardalis
 - Unlock the full potential of Azure with Bicep!
 - Using GPT Visual Capabilities to Solve a Wordle Puzzle
 - Using Web Components Like a Boss
@@ -111,7 +111,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 
 ## Friday Sessions (General Sessions + Bytesized Breakouts)
 
-- .NET Apps Everywhere!
+- [.NET Apps Everywhere!](./slides/net-apps-everywhere-uno.pptx)
 - 5 Questions to Get You Started With UX
 - [Advancing Your Threat Modeling Approaches in an Agile/DevOps World](https://github.com/rhurlbut/CodeMash2025)
 - Agile and Sustainable: A Pragmatic Approach to Sustainable Tech
@@ -151,8 +151,8 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Scaling Automated Tests to Infinity and Beyond
 - Scaling from One to Infinity: Simpler Distributed Applications with the Actor Model
 - Simplified Animations on the Web
-- SPAs Without Javascript: Simplify Your Stack
-- Stop Alert Fatigue, Monitor What Matters
+- [SPAs Without Javascript: Simplify Your Stack](https://github.com/CuriousCurmudgeon/spas_without_js_talk)
+- [Stop Alert Fatigue, Monitor What Matters](.slides/stop_alert_fatigue_2025.pdf)
 - Strengthening Your Foundation: The Power of Architectural Testing
 - Surviving Tech Layoffs: Harder, Better, Faster, Stronger
 - [Tame Cross-Cutting Concerns in Your Code!](slides/tame-cross-cutting-concerns-in-your-code.pdf) by [ardalis](https://youtube.com/ardalis)
