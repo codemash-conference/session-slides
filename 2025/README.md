@@ -155,7 +155,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [Stop Alert Fatigue, Monitor What Matters](.slides/stop_alert_fatigue_2025.pdf)
 - Strengthening Your Foundation: The Power of Architectural Testing
 - Surviving Tech Layoffs: Harder, Better, Faster, Stronger
-- Tame Cross-Cutting Concerns in Your Code!
+- [Tame Cross-Cutting Concerns in Your Code!](slides/tame-cross-cutting-concerns-in-your-code.pdf) by [ardalis](https://youtube.com/ardalis)
 - Testing Treasure Maps: The Art of Crafting Charters
 - The Dark Side of Design Patterns: What They Don't Tell You
 - The Power of Feature Flags in CSS Development
