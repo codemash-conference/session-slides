@@ -98,7 +98,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Stop Fearing Databases—SQL vs. NoSQL: Navigating the Database Dilemma
 - Swift Data Saves The Day
 - Technical Empathy
-- Testing Strategies for Monoliths and Microservices
+- [Testing Strategies for Monoliths and Microservices](slides/Testing-Strategies-for-Monoliths-and-Microservices.pdf)
 - The Agile Architect: Building Product From The Trenches, Not The Tower
 - [The Angular Renaissance - Key New Features](https://tinyurl.com/codeMashNgRen)
 - [Treat Your Primitive Obsession with Value Objects](./treat-primitive-obsession-with-value-objects.pdf) - also recorded and will be on YouTube.com/ardalis
