@@ -135,7 +135,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Everything You Wanted To Know But Were Afraid To Ask About AI and Product Discovery
 - Florida Man Uses Cache as Database
 - From IC to EM: How to Know if Management is Right for You
-- Git On My Level: Bridging Knowledge with Practical Solutions
+- [Git On My Level: Bridging Knowledge with Practical Solutions](https://github.com/DustinMEastway/git-on-my-level): [Full PDF](slides/git-on-my-level-presentation.pdf) & [PDF for people that know Git](slides/git-on-my-level-simplified-presentation.pdf).
 - Hidden Dangers Of AI In Developer Workflows: Navigating Security Risks with Human Insight
 - How to Win Friends and Influence...Better Developer Estimates
 - [Is Everyone AI-ing Without Me? A .NET Developers Guide to Development with AI](https://github.com/trailheadtechnology/ai-for-dotnet)
