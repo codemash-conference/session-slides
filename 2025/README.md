@@ -7,12 +7,12 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Awesome Web Testing with Playwright
 - Build Your First 2D Game with Godot 4
 - Building a Web Component Library
-- Demystifying GenAI: Build a ChatGPT App with Vector Store
+- [Demystifying GenAI: Build a ChatGPT App with Vector Store](slides/2025-CodeMash-DemystifyingGenAI-Workshop.pdf)
 - Dude, Who Broke My Linux Server?
 - Enhance Your AI Engineering Skills with System Design Katas
 - [Enterprise Grade Micro Frontends](https://davidnic11.github.io/workshop-enterprise-grade-micro-frontends/00-title)
-- From Small Screens to Everywhere: Patterns for Universal Apps with Expo Router
-- GitHub Actions: From Zero to Hero
+- [From Small Screens to Everywhere: Patterns for Universal Apps with Expo Router](https://github.com/keith-kurak/expo-router-codemash-2025-lessons)
+- [GitHub Actions: From Zero to Hero](slides/GitHub-Actions-Workshop.pdf)
 - [Hands-On Threat Modeling Workshop](https://github.com/rhurlbut/CodeMash2025)
 - Mindset for Success: you can program your brain too!
 - Plucking Data from Thin Air with Software-Defined Radio
@@ -50,12 +50,12 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Attacker's Perspective: How attackers view your applications
 - [Avoidifying Over-Complexification: Rooting Out Over-Engineering in Your Projects](https://github.com/trailheadtechnology/ai-for-dotnet)
 - Beyond Fake Agile: Building Purposeful, Validated Work Cycles
-- Beyond Leetcode: Redesigning Tech Interviews for the AI-Assisted Era
+- [Beyond Leetcode: Redesigning Tech Interviews for the AI-Assisted Era](slides/beyond-leetcode.pptx)
 - Bringing ideas to life with DIY IoT: Visualizing Noise Pollution with a Raspberry Pi and Python
 - [Building a modern, native application for Windows: Which UI framework should you choose?](https://github.com/alvinashcraft/speaking/tree/main/2025/0115_CodeMash)
 - Caring for the Human Condition: Product Superpowers to Make Users Feel Superhuman
 - Component Libraries: The Foundation of Accessibility at Scale
-- Crafting AI: A Developer’s Guide to Machine Learning
+- [Crafting AI: A Developer’s Guide to Machine Learning](https://cognitiveinheritance.com/Presentations/Workshop/CraftingAI/index.html)
 - Creating Intuitive APIs With The Builder Design Pattern
 - CSI Software Development: Use blameless post-mortems for learning and growth
 - Data Structures Crash Course
@@ -75,7 +75,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Home Lab - Private Cloud on a budget
 - How CQRS can help you to elevate your system?
 - Human Intelligence: Reshaping the Narrative of Motivation and Performance
-- Into the OAuth-Verse: Exploring Multiverse-Level API Security
+- [Into the OAuth-Verse: Exploring Multiverse-Level API Security](https://github.com/rettigcd/session-slides.git)
 - Introduction to Accessibility
 - Introduction to Unit Testing: Writing Fast, Effective, and Maintainable Test Suites
 - Is Vector Search Right for Me?
@@ -98,7 +98,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Stop Fearing Databases—SQL vs. NoSQL: Navigating the Database Dilemma
 - Swift Data Saves The Day
 - [Technical Empathy](https://github.com/LeonAdato/Talks-n-Slides/blob/main/Technical_Empathy/Technical_Empathy_CodeMash25.pdf)
-- Testing Strategies for Monoliths and Microservices
+- [Testing Strategies for Monoliths and Microservices](slides/Testing-Strategies-for-Monoliths-and-Microservices.pdf)
 - The Agile Architect: Building Product From The Trenches, Not The Tower
 - [The Angular Renaissance - Key New Features](https://tinyurl.com/codeMashNgRen)
 - [Treat Your Primitive Obsession with Value Objects](./treat-primitive-obsession-with-value-objects.pdf) - also recorded and will be on YouTube.com/ardalis
@@ -135,7 +135,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Everything You Wanted To Know But Were Afraid To Ask About AI and Product Discovery
 - Florida Man Uses Cache as Database
 - From IC to EM: How to Know if Management is Right for You
-- Git On My Level: Bridging Knowledge with Practical Solutions
+- [Git On My Level: Bridging Knowledge with Practical Solutions](https://github.com/DustinMEastway/git-on-my-level): [Full PDF](slides/git-on-my-level-presentation.pdf) & [PDF for people that know Git](slides/git-on-my-level-simplified-presentation.pdf).
 - Hidden Dangers Of AI In Developer Workflows: Navigating Security Risks with Human Insight
 - How to Win Friends and Influence...Better Developer Estimates
 - [Is Everyone AI-ing Without Me? A .NET Developers Guide to Development with AI](https://github.com/trailheadtechnology/ai-for-dotnet)
@@ -151,11 +151,11 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Scaling Automated Tests to Infinity and Beyond
 - Scaling from One to Infinity: Simpler Distributed Applications with the Actor Model
 - Simplified Animations on the Web
-- SPAs Without Javascript: Simplify Your Stack
+- [SPAs Without Javascript: Simplify Your Stack](https://github.com/CuriousCurmudgeon/spas_without_js_talk)
 - [Stop Alert Fatigue, Monitor What Matters](.slides/stop_alert_fatigue_2025.pdf)
 - Strengthening Your Foundation: The Power of Architectural Testing
 - Surviving Tech Layoffs: Harder, Better, Faster, Stronger
-- Tame Cross-Cutting Concerns in Your Code!
+- [Tame Cross-Cutting Concerns in Your Code!](slides/tame-cross-cutting-concerns-in-your-code.pdf) by [ardalis](https://youtube.com/ardalis)
 - Testing Treasure Maps: The Art of Crafting Charters
 - The Dark Side of Design Patterns: What They Don't Tell You
 - The Power of Feature Flags in CSS Development
