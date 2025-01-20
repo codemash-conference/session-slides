@@ -12,7 +12,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Enhance Your AI Engineering Skills with System Design Katas
 - [Enterprise Grade Micro Frontends](https://davidnic11.github.io/workshop-enterprise-grade-micro-frontends/00-title)
 - [From Small Screens to Everywhere: Patterns for Universal Apps with Expo Router](https://github.com/keith-kurak/expo-router-codemash-2025-lessons)
-- GitHub Actions: From Zero to Hero
+- [GitHub Actions: From Zero to Hero](slides/GitHub-Actions-Workshop.pdf)
 - [Hands-On Threat Modeling Workshop](https://github.com/rhurlbut/CodeMash2025)
 - Mindset for Success: you can program your brain too!
 - Plucking Data from Thin Air with Software-Defined Radio
