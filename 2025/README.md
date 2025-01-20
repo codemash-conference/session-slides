@@ -129,7 +129,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [Command your IoT Projects from the Terminal](slides/Command_Your_IoT_Projects_from_the_Terminal.pdf) [(txt file)](slides/Command_Your_IoT_Projects_from_the_Terminal_TEXT.txt)
 - Cross-Platform Healthcare Apps with .NET MAUI
 - Database DevOps: Managing Changes from Dev to Production with ease
-- DevOps is a Foreign Language (or Why There Are No Junior SREs)
+- [DevOps is a Foreign Language (or Why There Are No Junior SREs)](slides/devops-is-a-foreign-language.pdf)
 - Does Your API Need a REST? Check Out GraphQL
 - Dude, Where's my Bottleneck: Unlocking Performance with Unit Testing
 - Everything You Wanted To Know But Were Afraid To Ask About AI and Product Discovery
