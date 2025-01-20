@@ -7,7 +7,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Awesome Web Testing with Playwright
 - Build Your First 2D Game with Godot 4
 - Building a Web Component Library
-- Demystifying GenAI: Build a ChatGPT App with Vector Store
+- [Demystifying GenAI: Build a ChatGPT App with Vector Store](slides/2025-CodeMash-DemystifyingGenAI-Workshop.pdf)
 - Dude, Who Broke My Linux Server?
 - Enhance Your AI Engineering Skills with System Design Katas
 - [Enterprise Grade Micro Frontends](https://davidnic11.github.io/workshop-enterprise-grade-micro-frontends/00-title)
