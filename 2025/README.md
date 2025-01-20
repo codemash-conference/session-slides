@@ -80,7 +80,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Introduction to Unit Testing: Writing Fast, Effective, and Maintainable Test Suites
 - Is Vector Search Right for Me?
 - Lights, Camera, Github Actions!
-- Looking back at a lifetime of poor tech choices
+- [Looking back at a lifetime of poor tech choices](https://github.com/LeonAdato/Talks-n-Slides/blob/main/Poor_Tech_Choices/Looking_Back_CodeMash25.pdf)
 - MACH based Website Development in Minutes
 - Making Great Waves: 8 Software Testing Convictions
 - Microsoft’s Approach to Comprehensive Security in the Age of AI
@@ -97,7 +97,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Soaring High with Pico Balloons: Telemetry in Action - Intro
 - Stop Fearing Databases—SQL vs. NoSQL: Navigating the Database Dilemma
 - Swift Data Saves The Day
-- Technical Empathy
+- [Technical Empathy](https://github.com/LeonAdato/Talks-n-Slides/blob/main/Technical_Empathy/Technical_Empathy_CodeMash25.pdf)
 - Testing Strategies for Monoliths and Microservices
 - The Agile Architect: Building Product From The Trenches, Not The Tower
 - [The Angular Renaissance - Key New Features](https://tinyurl.com/codeMashNgRen)
