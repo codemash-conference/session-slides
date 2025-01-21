@@ -45,7 +45,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - .NET in a Box: Containerizing .NET Applications
 - [A Developer's Guide to Managing Attention](https://github.com/jcjiang/session-slides/blob/main/2025/slides/code-mash-attention.pdf)
 - Advanced AT-AT Driver Training: Automate the Automation with Terraform
-- Analyzing 1 billion rows in SQL and how fast databases can really be
+- [Analyzing 1 billion rows in SQL and how fast databases can really be](slides/Analyzing-1-billion-rows-in-SQL-and-how-fast-databases-can-really-be.pdf)
 - Analyzing and Critiquing Architectures
 - Attacker's Perspective: How attackers view your applications
 - [Avoidifying Over-Complexification: Rooting Out Over-Engineering in Your Projects](https://github.com/trailheadtechnology/ai-for-dotnet)
