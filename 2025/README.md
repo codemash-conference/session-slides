@@ -58,8 +58,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [Crafting AI: A Developer’s Guide to Machine Learning](https://cognitiveinheritance.com/Presentations/Workshop/CraftingAI/index.html)
 - Creating Intuitive APIs With The Builder Design Pattern
 - CSI Software Development: Use blameless post-mortems for learning and growth
-- [Data Structures Crash Course](https://github.com/DrSeabass/data_structures_big_o)
-    - [Slides](./slides/data-structures-crash-course.pdf)
+- [Data Structures Crash Course](slides/data-structures-crash-course.pdf)
 - Debugging Leadership: What I've Learned About Leading People
 - [Defense-in-depth engineering](./slides/codemash-Defense-in-Depth-engineering.pdf)
 - Defining an API Specification: A Step-by-Step Guide
