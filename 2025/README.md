@@ -38,7 +38,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - PowerShell 101: Unleash the Power of Automation
 - Scaling from One to Infinity: Building Simpler Distributed Applications with the Actor Model
 - Unlock the Power of Messaging Patterns
-- Using Test Doubles To Improve your Developer Confidence
+- [Using Test Doubles To Improve your Developer Confidence](./slides/Test%20Doubles.pdf)
 
 ## Thursday Sessions (General Sessions + Bytesized Breakouts)
 
@@ -59,6 +59,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Creating Intuitive APIs With The Builder Design Pattern
 - CSI Software Development: Use blameless post-mortems for learning and growth
 - [Data Structures Crash Course](https://github.com/DrSeabass/data_structures_big_o)
+    - [Slides](./slides/data-structures-crash-course.pdf)
 - Debugging Leadership: What I've Learned About Leading People
 - [Defense-in-depth engineering](./slides/codemash-Defense-in-Depth-engineering.pdf)
 - Defining an API Specification: A Step-by-Step Guide
@@ -85,7 +86,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Making Great Waves: 8 Software Testing Convictions
 - Microsoft’s Approach to Comprehensive Security in the Age of AI
 - Navigating Front-End Complexity: A Blueprint for building Frictionless Front-End Codebases
-- No Silver Bullet - Software Development Is About Learning
+- [No Silver Bullet - Software Development Is About Learning](./slides/NoSilverBullet.pdf)
 - Peace, Love and Hacking: How to Bring Security & Development Teams Together to Address Risk
 - Psychological Safety: The Key Factor of Successful Teams
 - Raising Your Software's Quality : A Journey with Docker, Postman, and DevOps
@@ -101,7 +102,8 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [Testing Strategies for Monoliths and Microservices](slides/Testing-Strategies-for-Monoliths-and-Microservices.pdf)
 - The Agile Architect: Building Product From The Trenches, Not The Tower
 - [The Angular Renaissance - Key New Features](https://tinyurl.com/codeMashNgRen)
-- [Treat Your Primitive Obsession with Value Objects](./treat-primitive-obsession-with-value-objects.pdf) - also recorded and will be on YouTube.com/ardalis
+- [Things I have learned in my first year of my 3D printing journey](./slides/Things%20I%20have%20learned%20in%20the%20first%20year%20of%20my%203D%20printing%20journey.pdf)
+- [Treat Your Primitive Obsession with Value Objects](./slides/treat-primitive-obsession-with-value-objects.pdf) - also recorded and will be on YouTube.com/ardalis
 - Unlock the full potential of Azure with Bicep!
 - Using GPT Visual Capabilities to Solve a Wordle Puzzle
 - Using Web Components Like a Boss
@@ -118,7 +120,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Alone Together: Team-Building for Remote Teams
 - Architecting a Secure, Scalable, and Cost-Effective Health system
 - Authentication Demystified: Basic Auth to Web Tokens in 60 minutes
-- Automating your life with Home Assistant & Open Source
+- [Automating your life with Home Assistant & Open Source](./slides/Automating%20your%20life%20with%20Home%20Assistant%20and%20Open%20Source.pdf)
 - Be an Ally for Mobile A11y
 - Beyond the Hype: Generative AI vs. Traditional Methods in the Battle for Better Data
 - [Blending Product Thinking with Architecture](https://www.dojoandco.com/speaking)
@@ -132,7 +134,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [DevOps is a Foreign Language (or Why There Are No Junior SREs)](slides/devops-is-a-foreign-language.pdf)
 - Does Your API Need a REST? Check Out GraphQL
 - Dude, Where's my Bottleneck: Unlocking Performance with Unit Testing
-- Everything You Wanted To Know But Were Afraid To Ask About AI and Product Discovery
+- [Everything You Wanted To Know But Were Afraid To Ask About AI and Product Discovery](./slides/everything-you-wanted-to-know-about-ai-and-product-discovery-but-were-afraid-to-ask.pdf)
 - Florida Man Uses Cache as Database
 - From IC to EM: How to Know if Management is Right for You
 - [Git On My Level: Bridging Knowledge with Practical Solutions](https://github.com/DustinMEastway/git-on-my-level): [Full PDF](slides/git-on-my-level-presentation.pdf) & [PDF for people that know Git](slides/git-on-my-level-simplified-presentation.pdf).
