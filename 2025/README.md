@@ -43,7 +43,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 ## Thursday Sessions (General Sessions + Bytesized Breakouts)
 
 - .NET in a Box: Containerizing .NET Applications
-- A Developer's Guide to Managing Attention
+- [A Developer's Guide to Managing Attention](https://github.com/jcjiang/session-slides/blob/main/2025/slides/code-mash-attention.pdf)
 - Advanced AT-AT Driver Training: Automate the Automation with Terraform
 - Analyzing 1 billion rows in SQL and how fast databases can really be
 - Analyzing and Critiquing Architectures
