@@ -48,7 +48,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [Analyzing 1 billion rows in SQL and how fast databases can really be](slides/Analyzing-1-billion-rows-in-SQL-and-how-fast-databases-can-really-be.pdf)
 - Analyzing and Critiquing Architectures
 - Attacker's Perspective: How attackers view your applications
-- [Avoidifying Over-Complexification: Rooting Out Over-Engineering in Your Projects](https://github.com/trailheadtechnology/ai-for-dotnet)
+- [Avoidifying Over-Complexification: Rooting Out Over-Engineering in Your Projects](https://github.com/trailheadtechnology/over-engineering)
 - Beyond Fake Agile: Building Purposeful, Validated Work Cycles
 - [Beyond Leetcode: Redesigning Tech Interviews for the AI-Assisted Era](slides/beyond-leetcode.pptx)
 - Bringing ideas to life with DIY IoT: Visualizing Noise Pollution with a Raspberry Pi and Python
