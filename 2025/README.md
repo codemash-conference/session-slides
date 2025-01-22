@@ -79,7 +79,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Introduction to Accessibility
 - Introduction to Unit Testing: Writing Fast, Effective, and Maintainable Test Suites
 - Is Vector Search Right for Me?
-- Lights, Camera, Github Actions!
+- [Lights, Camera, Github Actions!](https://github.com/nhoying/LightsCameraGithubActions)
 - [Looking back at a lifetime of poor tech choices](https://github.com/LeonAdato/Talks-n-Slides/blob/main/Poor_Tech_Choices/Looking_Back_CodeMash25.pdf)
 - MACH based Website Development in Minutes
 - Making Great Waves: 8 Software Testing Convictions
