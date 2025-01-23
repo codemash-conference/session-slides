@@ -49,7 +49,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Analyzing and Critiquing Architectures
 - Attacker's Perspective: How attackers view your applications
 - [Avoidifying Over-Complexification: Rooting Out Over-Engineering in Your Projects](https://github.com/trailheadtechnology/over-engineering)
-- Beyond Fake Agile: Building Purposeful, Validated Work Cycles
+- [Beyond Fake Agile: Building Purposeful, Validated Work Cycles](./slides/beyond-fake-agile.pdf)
 - [Beyond Leetcode: Redesigning Tech Interviews for the AI-Assisted Era](slides/beyond-leetcode.pptx)
 - Bringing ideas to life with DIY IoT: Visualizing Noise Pollution with a Raspberry Pi and Python
 - [Building a modern, native application for Windows: Which UI framework should you choose?](https://github.com/alvinashcraft/speaking/tree/main/2025/0115_CodeMash)
