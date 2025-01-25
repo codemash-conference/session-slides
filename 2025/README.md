@@ -104,7 +104,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [Things I have learned in my first year of my 3D printing journey](./slides/Things%20I%20have%20learned%20in%20the%20first%20year%20of%20my%203D%20printing%20journey.pdf)
 - [Treat Your Primitive Obsession with Value Objects](./slides/treat-primitive-obsession-with-value-objects.pdf) - also recorded and will be on YouTube.com/ardalis
 - Unlock the full potential of Azure with Bicep!
-- Using GPT Visual Capabilities to Solve a Wordle Puzzle
+- [Using GPT Visual Capabilities to Solve a Wordle Puzzle](./slides/UsingGPTVisualCapabilitiesToSolveAWordlePuzzle.pdf) with [code repo](https://github.com/jennifermarsman/WordleGPT)
 - Using Web Components Like a Boss
 - Vue for React Developers
 - Want to advance in your career? Learn to get great feedback!
