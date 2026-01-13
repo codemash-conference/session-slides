@@ -87,7 +87,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Ditch your JavaScript for CSS!
 - Leveraging Generative AI for Faster, Smarter Design
 - Make Your Resume Work Harder Than You Do
-- PKI Unlocked: A No-Math Primer for Builders
+- [PKI Unlocked: A No-Math Primer for Builders](https://github.com/jakehildreth/CodeMash26)
 - The Fewer Environments the Better: Lean DevOps Strategies
 - Azure Fundamentals: Create Your First Cloud Database
 - CTRL + ALT + REINVENT: Robots Can’t Replace You Unless You Let Them
