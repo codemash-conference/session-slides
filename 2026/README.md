@@ -130,7 +130,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Life after Tech: Rebuilding your Career in the Post-Tech Economy
 - OTel me more! A practical guide for adopting OpenTelemetry
 - Secure Your Web Apps Against OWASP Top 10 Threats
-- The Angular Renaissance - Key New Features
+- [The Angular Renaissance - Key New Features](https://tinyurl.com/cm2026NgRen)
 - The Premortem: The Art of Killing a Project to Ensure Its Success
 - From Pixels to Plastic: Your First 3D Printed Model
 - Fundamentals of Software Engineering in the age of AI
@@ -138,7 +138,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Making Reality Virtual: Simulating Experiences with VR Prototyping
 - Tuning Azure App Services for Peak Performance
 - Agents That Build Themselves: How to Outlive the Hackathon
-- Comparing Promises, Observables, and Signals
+- [Comparing Promises, Observables, and Signals](https://tinyurl.com/cm2026ReactivePrimitives)
 - From Idea to iOS: Rapid Prototyping with AI
 - From Power to Supply Chains: Sustainability is Security
 - Going Vertical: Signals from the Sky
