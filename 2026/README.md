@@ -61,7 +61,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Optimizing Complex GenAI Workflows with Event-Driven Multi-Agentic Approach
 - The 8 Wastes of Software Development
 - Unionization, AI, and You
-- #gitPanic - Restoring Lost Work
+- [#gitPanic - Restoring Lost Work](https://docs.google.com/presentation/d/12vWVUyy2YNbGTMs3ze-dMNyXEo8NVkkce01Y_0g6XwY/edit?usp=sharing)
 - A Bug's Life
 - Agents & Arbiters - An Adventurer’s Guide to Multi-Agent Collaboration with LangGraph.js
 - Assembly Language for People Who Don't Want to Learn Assembly Language
@@ -104,7 +104,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Beyond Prompts: Unlocking the Transformational Side of AI
 - Caffeinate Your Queries: Brew Up Faster SQL with Tuning
 - Design to Code for .NET Developers
-- Fiber Arts as Programming
+- [Fiber Arts as Programming](https://docs.google.com/presentation/d/1_VslID_j8dc1Tamr8RI_kx1nZgrkQzubTY9CI9-hjhI/edit?usp=sharing)
 - One String, Many Prompts: A Hands-On Workshop in AI Code Generation
 - Possessed by Packages: Is Your JavaScript Haunted?
 - Setting Your Tests Up to Fail
