@@ -44,7 +44,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 
 - Building the Ultimate Safety Net with Integration Tests
 - Create multi-platform apps with .NET MAUI and the MAUI Community Toolkit
-- Escaping the Trap of Self-Sabotaging Meetings
+- [Escaping the Trap of Self-Sabotaging Meetings](slides/Escaping-the-Trap-of-Self-Sabotaging-Meetings.pdf)
 - From 3D Print to Final Product
 - Git Configuration secrets THEY don't want you to know about
 - IaC Forged in Code: ARM/Bicep vs Terraform vs Pulumi
