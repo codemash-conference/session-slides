@@ -151,3 +151,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - When Your Identity Gets Lost in IoT Technology
 - Yak Shaving for the Apologetic Wanderer
 - Your Manager Doesn’t Come with a User Manual (But You Can Totally Write One)
+
+## KidzMash
+
+- [Invisible Technology: Hacking with Infrared](https://bit.ly/infrared-kidzmash-2026) ([workshop](https://cjudd.github.io/hacking-infrared-workshop/))
