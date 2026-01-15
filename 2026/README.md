@@ -74,7 +74,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Diet Docker: Crafting lightweight containers with multi-stage builds
 - Everyday SIGINT: Counter-Surveillance with Rayhunter
 - Full-Stack Flexing with Ruby on Rails
-- Learning Computer Science By Building Analog Synthesizers
+- [Learning Computer Science By Building Analog Synthesizers](https://speakerdeck.com/craigstuntz/learning-computer-science-via-building-analog-synthesizers)
 - The Death of the Traditional Sprint: What’s Next for Agile Teams?
 - [The Lost Art Of Code Reviews](slides/Lost_Art_Code_Reviews.pdf)
 - The Science Behind Effective Gamification in Mobile Apps
