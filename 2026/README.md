@@ -55,7 +55,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Building Accessible Components with Razor
 - [Dev Containers. What are they and why do you need them?](slides/JGuadagno-DevContainers.pdf)
 - Emotional Intelligence at Work: Choosing the Right Model for Leadership Success
-- Find Mobile Bugs Faster through ViewModel and API Library Testing
+- [Find Mobile Bugs Faster through ViewModel and API Library Testing](https://github.com/andylech/talk-testing-viewmodels-and-api-libraries/)
 - [htmx - Web Development Simplified](https://github.com/mvolkmann/talks/blob/master/htmx.key.pdf)
 - [Modularizing a 10-Year Monolith: The Architecture, the People, and the Pain](slides/Modularizing-a-10-Year-Monolith.pdf)
 - Optimizing Complex GenAI Workflows with Event-Driven Multi-Agentic Approach
@@ -82,7 +82,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Vector Databases and Embeddings Demystified
 - [Putting AI to Work: What the Heck is an MCP Server?](slides/putting-ai-to-work.pdf)
 - AI in Performance Testing: Turning Metrics into Meaning
-- Build More Responsive and Maintainable Mobile Apps with ReactiveUI
+- [Build More Responsive and Maintainable Mobile Apps with ReactiveUI](https://github.com/andylech/talk-better-apps-reactiveui)
 - Climbing the Unclimbed Mountain: Estimation for Software Projects
 - Conquering Events with Streaming Analytics
 - Ditch your JavaScript for CSS!
