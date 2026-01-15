@@ -50,7 +50,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - IaC Forged in Code: ARM/Bicep vs Terraform vs Pulumi
 - Learn to paint miniatures
 - Oligarch‑Free Full‑Stack Blueprint
-- Software Craftsmanship for Coding Agents: Taming the Dragon
+- [Software Craftsmanship for Coding Agents: Taming the Dragon](https://github.com/SDiamante13/Talks/tree/main/SoftwareCraftsmanshipForCodingAgents)
 - Stop scaling and start tuning
 - Building Accessible Components with Razor
 - Dev Containers. What are they and why do you need them?
