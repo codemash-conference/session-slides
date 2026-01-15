@@ -70,7 +70,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Modular SPA Web Application: Fast, Secure, and Scalable from MVP to Enterprise
 - MQTT + Ollama = Building Home Automation That Actually Works (And Doesn't Spy on You)
 - Pair Programming Interviews: The Most Awkward First Date You’ll Ever Love
-- The Simplicity Code: Designing Intelligent Architecture Without the Buzzwords
+- [The Simplicity Code: Designing Intelligent Architecture Without the Buzzwords](slides/The%20Simplicity%20Code-%20Designing%20Intelligent%20Architecture%20Without%20the%20Buzzwords.pdf)
 - Diet Docker: Crafting lightweight containers with multi-stage builds
 - Everyday SIGINT: Counter-Surveillance with Rayhunter
 - Full-Stack Flexing with Ruby on Rails
