@@ -103,7 +103,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 
 - Beyond Prompts: Unlocking the Transformational Side of AI
 - Caffeinate Your Queries: Brew Up Faster SQL with Tuning
-- Design to Code for .NET Developers
+- [Design to Code for .NET Developers](https://1drv.ms/b/c/619d6eba43e398ff/IQDBREfiySflTbaK5GvdUrO1AQgOVCCS2S-JJvnKJtwYC90?e=PAUcPe)
 - [Fiber Arts as Programming](https://docs.google.com/presentation/d/1_VslID_j8dc1Tamr8RI_kx1nZgrkQzubTY9CI9-hjhI/edit?usp=sharing)
 - One String, Many Prompts: A Hands-On Workshop in AI Code Generation
 - Possessed by Packages: Is Your JavaScript Haunted?
