@@ -80,6 +80,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - The Science Behind Effective Gamification in Mobile Apps
 - Beyond Iron Man: The Reality of Building a Functional Exoskeleton Arm
 - Vector Databases and Embeddings Demystified
+- [Putting AI to Work: What the Heck is an MCP Server?](slides/putting-ai-to-work.pdf)
 - AI in Performance Testing: Turning Metrics into Meaning
 - Build More Responsive and Maintainable Mobile Apps with ReactiveUI
 - Climbing the Unclimbed Mountain: Estimation for Software Projects
