@@ -53,7 +53,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [Software Craftsmanship for Coding Agents: Taming the Dragon](https://github.com/SDiamante13/Talks/tree/main/SoftwareCraftsmanshipForCodingAgents)
 - Stop scaling and start tuning
 - Building Accessible Components with Razor
-- Dev Containers. What are they and why do you need them?
+- [Dev Containers. What are they and why do you need them?](slides/JGuadagno-DevContainers.pdf)
 - Emotional Intelligence at Work: Choosing the Right Model for Leadership Success
 - Find Mobile Bugs Faster through ViewModel and API Library Testing
 - htmx - Web Development Simplified
