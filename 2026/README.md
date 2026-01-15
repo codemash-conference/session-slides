@@ -56,7 +56,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [Dev Containers. What are they and why do you need them?](slides/JGuadagno-DevContainers.pdf)
 - Emotional Intelligence at Work: Choosing the Right Model for Leadership Success
 - Find Mobile Bugs Faster through ViewModel and API Library Testing
-- htmx - Web Development Simplified
+- [htmx - Web Development Simplified](https://github.com/mvolkmann/talks/blob/master/htmx.key.pdf)
 - Modularizing a 10-Year Monolith: The Architecture, the People, and the Pain
 - Optimizing Complex GenAI Workflows with Event-Driven Multi-Agentic Approach
 - The 8 Wastes of Software Development
