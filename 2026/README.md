@@ -4,7 +4,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 
 ## Tuesday Sessions (Precompilers)
 
-- AI for Java Developers
+- [AI for Java Developers](slides/ai-for-java-developers.pdf)
 - Amazing Algorithms Workshop
 - Distilling Intelligence: Hands-On Fine-Tuning using latest AI models
 - Energize Your Leadership: From Being Stuck to Striving
