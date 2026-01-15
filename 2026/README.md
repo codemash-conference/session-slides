@@ -47,7 +47,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [Escaping the Trap of Self-Sabotaging Meetings](slides/Escaping-the-Trap-of-Self-Sabotaging-Meetings.pdf)
 - From 3D Print to Final Product
 - Git Configuration secrets THEY don't want you to know about
-- IaC Forged in Code: ARM/Bicep vs Terraform vs Pulumi
+- [IaC Forged in Code: ARM/Bicep vs Terraform vs Pulumi](slides/Codemash26-IaC-Today.pdf)
 - Learn to paint miniatures
 - Oligarch‑Free Full‑Stack Blueprint
 - [Software Craftsmanship for Coding Agents: Taming the Dragon](https://github.com/SDiamante13/Talks/tree/main/SoftwareCraftsmanshipForCodingAgents)
