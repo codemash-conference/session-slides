@@ -76,7 +76,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Full-Stack Flexing with Ruby on Rails
 - Learning Computer Science By Building Analog Synthesizers
 - The Death of the Traditional Sprint: What’s Next for Agile Teams?
-- The Lost Art Of Code Reviews
+- [The Lost Art Of Code Reviews](slides/Lost_Art_Code_Reviews.pdf)
 - The Science Behind Effective Gamification in Mobile Apps
 - Beyond Iron Man: The Reality of Building a Functional Exoskeleton Arm
 - Vector Databases and Embeddings Demystified
