@@ -68,18 +68,18 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Building an 8-bit Computer
 - Building iOS and Apple Watch Health Apps that Shine - AI Powered Development
 - Modular SPA Web Application: Fast, Secure, and Scalable from MVP to Enterprise
-- MQTT + Ollama = Building Home Automation That Actually Works (And Doesn't Spy on You)
+- [MQTT + Ollama = Building Home Automation That Actually Works (And Doesn't Spy on You)](slides/MQTT%20Ollama.pdf)
 - Pair Programming Interviews: The Most Awkward First Date You’ll Ever Love
 - [The Simplicity Code: Designing Intelligent Architecture Without the Buzzwords](slides/The%20Simplicity%20Code-%20Designing%20Intelligent%20Architecture%20Without%20the%20Buzzwords.pdf)
 - Diet Docker: Crafting lightweight containers with multi-stage builds
-- Everyday SIGINT: Counter-Surveillance with Rayhunter
+- [Everyday SIGINT: Counter-Surveillance with Rayhunter](slides/everyday-sigint-counter-surveillance-with-rayhunter.pdf)
 - Full-Stack Flexing with Ruby on Rails
 - [Learning Computer Science By Building Analog Synthesizers](https://speakerdeck.com/craigstuntz/learning-computer-science-via-building-analog-synthesizers)
 - The Death of the Traditional Sprint: What’s Next for Agile Teams?
 - [The Lost Art Of Code Reviews](slides/Lost_Art_Code_Reviews.pdf)
 - The Science Behind Effective Gamification in Mobile Apps
 - Beyond Iron Man: The Reality of Building a Functional Exoskeleton Arm
-- Vector Databases and Embeddings Demystified
+- [Vector Databases and Embeddings Demystified](slides/Vector%20Databases%20and%20Embeddings%20Demystified-1.pdf)
 - [Putting AI to Work: What the Heck is an MCP Server?](slides/putting-ai-to-work.pdf)
 - AI in Performance Testing: Turning Metrics into Meaning
 - [Build More Responsive and Maintainable Mobile Apps with ReactiveUI](https://github.com/andylech/talk-better-apps-reactiveui)
@@ -92,7 +92,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - The Fewer Environments the Better: Lean DevOps Strategies
 - Azure Fundamentals: Create Your First Cloud Database
 - CTRL + ALT + REINVENT: Robots Can’t Replace You Unless You Let Them
-- Incident Response for Developers
+- [Incident Response for Developers](/slides/Incident-Response-For-Developers/readme.md)
 - Java Anti-Patterns: From God Objects to Graceful Code
 - [LLM Lockdown: Defending Against OWASP's Top 10 AI Nightmares](slides/CM26-LLM-Lockdown.pdf)
 - Offline-First AI: Building Resilient Tools for a Fragile World
@@ -156,3 +156,4 @@ These are the sessions that happened on each day, listed alphabetically by title
 ## KidzMash
 
 - [Invisible Technology: Hacking with Infrared](https://bit.ly/infrared-kidzmash-2026) ([workshop](https://cjudd.github.io/hacking-infrared-workshop/))
+- [Robot Mayhem](slides/Robot-Mayhem-Kidsmash.pptx)
