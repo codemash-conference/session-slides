@@ -25,7 +25,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 
 - Building and Deploying a .NET 10 App to Azure Using Bicep, and GitHub Actions
 - Coding Effectively with AI
-- Elevating Trust: Tools for Leaders and Teams
+- [Elevating Trust: Tools for Leaders and Teams](https://github.com/kjenkins19/presentations/tree/main/Trust%20Foundations)
 - Hands-On AI Vision at the Edge: Building Smarter IoT Devices
 - LLMs Under the Hood
 - Modern UX Without JavaScript Madness (Workshop)
