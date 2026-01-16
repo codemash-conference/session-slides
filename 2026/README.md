@@ -112,7 +112,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - The Wonderful World of Cross-Platform .NET UI Frameworks
 - When Feedback Backfires: Strategies for Conversations That Actually Create Change
 - 🚗 Seeing Roads Differently: Inside Comma.ai’s Open-Source ADAS
-- AI in the Browser: Practical ML with JavaScript
+- [AI in the Browser: Practical ML with JavaScript](https://rondagdag.github.io/why-ai-in-js/)
 - [Beyond the Basics: Designing Web APIs for Long Term Success](slides/Designing_Web_APIs_for_Long_Term_Success.pdf)
 - Deceptive UX Patterns: Exposing Manipulative Design and Building Ethical Experiences
 - [Dev Proxy: Breaking Your App So You Don’t Have To](slides/DevProxy_Presentation.pdf)
