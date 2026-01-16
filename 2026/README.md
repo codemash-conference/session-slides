@@ -94,7 +94,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - CTRL + ALT + REINVENT: Robots Can’t Replace You Unless You Let Them
 - Incident Response for Developers
 - Java Anti-Patterns: From God Objects to Graceful Code
-- LLM Lockdown: Defending Against OWASP's Top 10 AI Nightmares
+- [LLM Lockdown: Defending Against OWASP's Top 10 AI Nightmares](slides/CM26-LLM-Lockdown.pdf)
 - Offline-First AI: Building Resilient Tools for a Fragile World
 - Prompts to Patterns - Why Architecture Still Matters When AI Writes the Code
 - Shift Left on Accessibility: Building Inclusive iOS Apps from Day One
