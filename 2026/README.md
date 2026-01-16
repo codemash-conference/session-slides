@@ -122,7 +122,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Decision Records: Understanding Why Those Decisions Were Made!
 - Fresh Hot CSS Features!
 - From Data to Insights in Minutes: Accelerating Business Development with AutoML
-- Getting Things Done for Technologists
+- [Getting Things Done for Technologists](https://kitomann.com/#/sessions/31/getting-things-done-for-technologists)
 - Is Vector Search Right for Me?
 - The Art of Breaking Things (Before Your Users Do)
 - Who Moved My Mug? Teaching a Raspberry Pi; To Spy ; With Spring-AI
