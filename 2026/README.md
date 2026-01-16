@@ -106,7 +106,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Caffeinate Your Queries: Brew Up Faster SQL with Tuning
 - [Design to Code for .NET Developers](https://1drv.ms/b/c/619d6eba43e398ff/IQDBREfiySflTbaK5GvdUrO1AQgOVCCS2S-JJvnKJtwYC90?e=PAUcPe)
 - [Fiber Arts as Programming](https://docs.google.com/presentation/d/1_VslID_j8dc1Tamr8RI_kx1nZgrkQzubTY9CI9-hjhI/edit?usp=sharing)
-- One String, Many Prompts: A Hands-On Workshop in AI Code Generation
+- [One String, Many Prompts: A Hands-On Workshop in AI Code Generation](slides/One_String_Many_Prompts.pdf) [(Code)](https://github.com/ggeoffre/onestring)
 - Possessed by Packages: Is Your JavaScript Haunted?
 - Setting Your Tests Up to Fail
 - The Wonderful World of Cross-Platform .NET UI Frameworks
@@ -145,7 +145,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Going Vertical: Signals from the Sky
 - Managing Up, Sideways, and All Around: Surviving the Human Side of Tech
 - Thinking Architecturally
-- Command your IoT Projects from the Terminal
+- [Command your IoT Projects from the Terminal](../2025/slides/Command_Your_IoT_Projects_from_the_Terminal.pdf) [(txt file)](../2025/slides/Command_Your_IoT_Projects_from_the_Terminal_TEXT.txt)
 - Dungeons & Debugging: Observability, Evaluation, and Analytics battle AI Complexity
 - Mission-Critical Code: What NASA’s Power of Ten Can Teach Us
 - Model Context Protocol: A Systems Integration Perspective
