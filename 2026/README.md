@@ -130,7 +130,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Digging into the Matrix: Practicing Code Archaeology
 - Life after Tech: Rebuilding your Career in the Post-Tech Economy
 - OTel me more! A practical guide for adopting OpenTelemetry
-- Secure Your Web Apps Against OWASP Top 10 Threats
+- [Secure Your Web Apps Against OWASP Top 10 Threats](https://gist.github.com/ardalis/e0d5301ffe8ca8b5505c2d2614f5748c) by [Ardalis](https://ardalis.com)
 - [The Angular Renaissance - Key New Features](https://tinyurl.com/cm2026NgRen)
 - The Premortem: The Art of Killing a Project to Ensure Its Success
 - From Pixels to Plastic: Your First 3D Printed Model
