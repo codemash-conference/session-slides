@@ -98,7 +98,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Offline-First AI: Building Resilient Tools for a Fragile World
 - Prompts to Patterns - Why Architecture Still Matters When AI Writes the Code
 - Shift Left on Accessibility: Building Inclusive iOS Apps from Day One
-- The Fix is In: Understanding Playwright Fixtures
+- [The Fix is In: Understanding Playwright Fixtures](slides/The-Fix-Is-In-Understanding-Playwright-Fixtures.pdf)
 
 ## Friday Sessions (General Sessions + Bytesized Breakouts)
 
