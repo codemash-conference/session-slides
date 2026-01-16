@@ -113,7 +113,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - When Feedback Backfires: Strategies for Conversations That Actually Create Change
 - 🚗 Seeing Roads Differently: Inside Comma.ai’s Open-Source ADAS
 - AI in the Browser: Practical ML with JavaScript
-- Beyond the Basics: Designing Web APIs for Long Term Success
+- [Beyond the Basics: Designing Web APIs for Long Term Success](slides/Designing_Web_APIs_for_Long_Term_Success.pdf)
 - Deceptive UX Patterns: Exposing Manipulative Design and Building Ethical Experiences
 - [Dev Proxy: Breaking Your App So You Don’t Have To](slides/DevProxy_Presentation.pdf)
 - Ditch the Compliment Sandwich: Give Feedback That Works
