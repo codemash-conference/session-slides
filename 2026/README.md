@@ -9,7 +9,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Distilling Intelligence: Hands-On Fine-Tuning using latest AI models
 - Energize Your Leadership: From Being Stuck to Striving
 - From Code to Cloud: Building Scalable REST APIs the Right Way
-- Hands-on Terraform and Terragrunt Fundamentals
+- [Hands-on Terraform and Terragrunt Fundamentals](https://github.com/OtherDevOpsGene/terraform-terragrunt)
 - Mad Scientist Lab V2.0. Sharks to Mars!
 - Threat Modeling with AI – Half-day Workshop
 - A Swift Start to Building an iOS App
