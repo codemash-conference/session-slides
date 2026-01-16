@@ -109,7 +109,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [One String, Many Prompts: A Hands-On Workshop in AI Code Generation](slides/One_String_Many_Prompts.pdf) [(Code)](https://github.com/ggeoffre/onestring)
 - Possessed by Packages: Is Your JavaScript Haunted?
 - Setting Your Tests Up to Fail
-- The Wonderful World of Cross-Platform .NET UI Frameworks
+- [The Wonderful World of Cross-Platform .NET UI Frameworks](slides/CodeMashBilogan2026.pdf)
 - When Feedback Backfires: Strategies for Conversations That Actually Create Change
 - 🚗 Seeing Roads Differently: Inside Comma.ai’s Open-Source ADAS
 - [AI in the Browser: Practical ML with JavaScript](https://rondagdag.github.io/why-ai-in-js/)
