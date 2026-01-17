@@ -135,7 +135,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - The Premortem: The Art of Killing a Project to Ensure Its Success
 - From Pixels to Plastic: Your First 3D Printed Model
 - Fundamentals of Software Engineering in the age of AI
-- Keeping Secrets Out of Your Pipeline
+- [Keeping Secrets Out of Your Pipeline](slides/KeepingSecrets.pdf)
 - Making Reality Virtual: Simulating Experiences with VR Prototyping
 - Tuning Azure App Services for Peak Performance
 - Agents That Build Themselves: How to Outlive the Hackathon
