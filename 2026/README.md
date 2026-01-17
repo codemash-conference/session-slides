@@ -97,7 +97,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [LLM Lockdown: Defending Against OWASP's Top 10 AI Nightmares](slides/CM26-LLM-Lockdown.pdf)
 - Offline-First AI: Building Resilient Tools for a Fragile World
 - Prompts to Patterns - Why Architecture Still Matters When AI Writes the Code
-- Shift Left on Accessibility: Building Inclusive iOS Apps from Day One
+- Shift Left on Accessibility: Building Inclusive iOS Apps from Day One [PDF](slides/Shift%20Left%20on%20Accessibility.pdf) [Google Slides](https://docs.google.com/presentation/d/1VXyAvdyJ323Niqqk0JlNAC24EN_4vrFL_r8eIlPqY8k/edit?usp=sharing)
 - [The Fix is In: Understanding Playwright Fixtures](slides/The-Fix-Is-In-Understanding-Playwright-Fixtures.pdf)
 
 ## Friday Sessions (General Sessions + Bytesized Breakouts)
