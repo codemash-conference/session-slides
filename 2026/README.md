@@ -148,7 +148,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [Command your IoT Projects from the Terminal](../2025/slides/Command_Your_IoT_Projects_from_the_Terminal.pdf) [(txt file)](../2025/slides/Command_Your_IoT_Projects_from_the_Terminal_TEXT.txt)
 - Dungeons & Debugging: Observability, Evaluation, and Analytics battle AI Complexity
 - Mission-Critical Code: What NASA’s Power of Ten Can Teach Us
-- Model Context Protocol: A Systems Integration Perspective
+- [Model Context Protocol: A Systems Integration Perspective](./slides/Model-Context-Protocol-A-Systems-Integration-Perspective.pdf)
 - When Your Identity Gets Lost in IoT Technology
 - Yak Shaving for the Apologetic Wanderer
 - Your Manager Doesn’t Come with a User Manual (But You Can Totally Write One)
