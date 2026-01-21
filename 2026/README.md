@@ -118,7 +118,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [Dev Proxy: Breaking Your App So You Don’t Have To](slides/DevProxy_Presentation.pdf)
 - Ditch the Compliment Sandwich: Give Feedback That Works
 - Layers Are for Lasagna: Embracing Vertical Slice Architecture
-- [You've Probably Never Heard of the Reticulum Network](slides/Reticulum.pdf)
+- [You've Probably Never Heard of the Reticulum Network](https://github.com/guyroyse/youve-probably-never-heard-of-the-reticulum-network)
 - Decision Records: Understanding Why Those Decisions Were Made!
 - Fresh Hot CSS Features!
 - From Data to Insights in Minutes: Accelerating Business Development with AutoML
