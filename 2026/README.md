@@ -63,7 +63,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Unionization, AI, and You
 - [#gitPanic - Restoring Lost Work](https://docs.google.com/presentation/d/12vWVUyy2YNbGTMs3ze-dMNyXEo8NVkkce01Y_0g6XwY/edit?usp=sharing)
 - A Bug's Life
-- Agents & Arbiters - An Adventurer’s Guide to Multi-Agent Collaboration with LangGraph.js
+- [Agents & Arbiters - An Adventurer’s Guide to Multi-Agent Collaboration with LangGraph.js](https://github.com/guyroyse/agents-n-arbiters)
 - Assembly Language for People Who Don't Want to Learn Assembly Language
 - Building an 8-bit Computer
 - Building iOS and Apple Watch Health Apps that Shine - AI Powered Development
@@ -118,7 +118,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [Dev Proxy: Breaking Your App So You Don’t Have To](slides/DevProxy_Presentation.pdf)
 - Ditch the Compliment Sandwich: Give Feedback That Works
 - Layers Are for Lasagna: Embracing Vertical Slice Architecture
-- You've Probably Never Heard of the Reticulum Network
+- [You've Probably Never Heard of the Reticulum Network](slides/Reticulum.pdf)
 - Decision Records: Understanding Why Those Decisions Were Made!
 - Fresh Hot CSS Features!
 - From Data to Insights in Minutes: Accelerating Business Development with AutoML
