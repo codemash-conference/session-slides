@@ -125,7 +125,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Getting Things Done for Technologists
 - Is Vector Search Right for Me?
 - The Art of Breaking Things (Before Your Users Do)
-- Who Moved My Mug? Teaching a Raspberry Pi; To Spy ; With Spring-AI
+- [Who Moved My Mug? Teaching a Raspberry Pi; To Spy ; With Spring-AI](https://sasiperi.github.io/#gizmo-abstract)
 - Architecting for AI: Building Production-Ready Systems with Context, Control, and Automated Testing
 - Digging into the Matrix: Practicing Code Archaeology
 - Life after Tech: Rebuilding your Career in the Post-Tech Economy
