@@ -60,7 +60,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [Modularizing a 10-Year Monolith: The Architecture, the People, and the Pain](slides/Modularizing-a-10-Year-Monolith.pdf)
 - Optimizing Complex GenAI Workflows with Event-Driven Multi-Agentic Approach
 - The 8 Wastes of Software Development
-- Unionization, AI, and You
+- [Unionization, AI, and You](slides/unionization_ai_and_you.pdf)
 - [#gitPanic - Restoring Lost Work](https://docs.google.com/presentation/d/12vWVUyy2YNbGTMs3ze-dMNyXEo8NVkkce01Y_0g6XwY/edit?usp=sharing)
 - A Bug's Life
 - [Agents & Arbiters - An Adventurer’s Guide to Multi-Agent Collaboration with LangGraph.js](https://github.com/guyroyse/agents-n-arbiters)
@@ -71,7 +71,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [MQTT + Ollama = Building Home Automation That Actually Works (And Doesn't Spy on You)](slides/MQTT%20Ollama.pdf)
 - Pair Programming Interviews: The Most Awkward First Date You’ll Ever Love
 - [The Simplicity Code: Designing Intelligent Architecture Without the Buzzwords](slides/The%20Simplicity%20Code-%20Designing%20Intelligent%20Architecture%20Without%20the%20Buzzwords.pdf)
-- Diet Docker: Crafting lightweight containers with multi-stage builds
+- [Diet Docker: Crafting lightweight containers with multi-stage builds](slides/victorfrye_dietdocker.pdf)
 - [Everyday SIGINT: Counter-Surveillance with Rayhunter](slides/everyday-sigint-counter-surveillance-with-rayhunter.pdf)
 - Full-Stack Flexing with Ruby on Rails
 - [Learning Computer Science By Building Analog Synthesizers](https://speakerdeck.com/craigstuntz/learning-computer-science-via-building-analog-synthesizers)
@@ -129,7 +129,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Architecting for AI: Building Production-Ready Systems with Context, Control, and Automated Testing
 - Digging into the Matrix: Practicing Code Archaeology
 - Life after Tech: Rebuilding your Career in the Post-Tech Economy
-- OTel me more! A practical guide for adopting OpenTelemetry
+- [OTel me more! A practical guide for adopting OpenTelemetry](slides/OTel-me-more-adopting-open-telemetry.pdf)
 - [Secure Your Web Apps Against OWASP Top 10 Threats](https://gist.github.com/ardalis/e0d5301ffe8ca8b5505c2d2614f5748c) by [Ardalis](https://ardalis.com)
 - [The Angular Renaissance - Key New Features](https://tinyurl.com/cm2026NgRen)
 - The Premortem: The Art of Killing a Project to Ensure Its Success
