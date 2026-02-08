@@ -56,3 +56,4 @@
 - [Async Masterclass](https://github.com/StephenCleary/Presentations/tree/2024-codemash/Async%20Masterclass)
 - [Async from the Ground Up](https://github.com/StephenCleary/Presentations/tree/2024-codemash/Async%20from%20the%20Ground%20Up)
 - [Protocol Design](https://github.com/StephenCleary/Presentations/tree/2024-codemash/Protocol%20Design)
+- [GPT Embeddings - Not Magic, Just Math](https://cognitiveinheritance.com/Presentations/ShortSession/GPTEmbeddings/index.html)
