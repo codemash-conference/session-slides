@@ -142,7 +142,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [Comparing Promises, Observables, and Signals](https://tinyurl.com/cm2026ReactivePrimitives)
 - From Idea to iOS: Rapid Prototyping with AI
 - [From Power to Supply Chains: Sustainability is Security](../2026/slides/Sustainability Is Security-with-notes-reduced-size.pdf)
-- Going Vertical: Signals from the Sky
+- [Going Vertical: Signals from the Sky](https://gitlab.com/tagraham/presentations/-/blob/main/2026/GoingVerticalSignalsFromTheSky-HAB/HAB_CodeMash_2026-v5.pptx?ref_type=heads)
 - Managing Up, Sideways, and All Around: Surviving the Human Side of Tech
 - Thinking Architecturally
 - [Command your IoT Projects from the Terminal](../2025/slides/Command_Your_IoT_Projects_from_the_Terminal.pdf) [(txt file)](../2025/slides/Command_Your_IoT_Projects_from_the_Terminal_TEXT.txt)
