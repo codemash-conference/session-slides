@@ -34,7 +34,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Azure Cosmos DB for Developers: From Basics to AI
 - Building Trust and Breaking Barriers (with LEGO!)
 - Do you want to build a copilot? Star Wars edition!
-- Snack Time: EventStorming with Snack-Inspired Systems
+- [Snack Time: EventStorming with Snack-Inspired Systems](https://github.com/NimblePros/conference-appearances/blob/main/2026/codemash/eventstorming/README.md)
 - Speak Geek: Unlocking Communication Superpowers
 - Teeny Little Superguys: Build an App Clip and Widget
 - Testing, Evaluating, and Monitoring AI agents using AI Evaluation and OpenTelemetry
@@ -119,7 +119,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Ditch the Compliment Sandwich: Give Feedback That Works
 - Layers Are for Lasagna: Embracing Vertical Slice Architecture
 - You've Probably Never Heard of the Reticulum Network
-- Decision Records: Understanding Why Those Decisions Were Made!
+- [Decision Records: Understanding Why Those Decisions Were Made!](https://github.com/NimblePros/conference-appearances/blob/main/2026/codemash/decision-records/README.md)
 - Fresh Hot CSS Features!
 - From Data to Insights in Minutes: Accelerating Business Development with AutoML
 - [Getting Things Done for Technologists](https://kitomann.com/#/sessions/31/getting-things-done-for-technologists)
