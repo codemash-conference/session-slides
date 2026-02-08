@@ -5,7 +5,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 ## Tuesday Sessions (Precompilers)
 
 - [AI for Java Developers](slides/ai-for-java-developers.pdf)
-- Amazing Algorithms Workshop
+- [Amazing Algorithms Workshop](https://cognitiveinheritance.com/Presentations/ShortWorkshop/AmazingAlgorithms/index.html)
 - Distilling Intelligence: Hands-On Fine-Tuning using latest AI models
 - Energize Your Leadership: From Being Stuck to Striving
 - From Code to Cloud: Building Scalable REST APIs the Right Way
@@ -27,14 +27,14 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Coding Effectively with AI
 - [Elevating Trust: Tools for Leaders and Teams](https://github.com/kjenkins19/presentations/tree/main/Trust%20Foundations)
 - Hands-On AI Vision at the Edge: Building Smarter IoT Devices
-- LLMs Under the Hood
+- [LLMs Under the Hood](https://cognitiveinheritance.com/Presentations/Workshop/LLMsUnderTheHood/index.html)
 - Modern UX Without JavaScript Madness (Workshop)
 - Scaling from 1 to Infinity: Building Simpler Distributed Applications w/ the Actor Model
 - The Gumshoe Protocol
 - Azure Cosmos DB for Developers: From Basics to AI
 - Building Trust and Breaking Barriers (with LEGO!)
 - Do you want to build a copilot? Star Wars edition!
-- Snack Time: EventStorming with Snack-Inspired Systems
+- [Snack Time: EventStorming with Snack-Inspired Systems](https://github.com/NimblePros/conference-appearances/blob/main/2026/codemash/eventstorming/README.md)
 - Speak Geek: Unlocking Communication Superpowers
 - Teeny Little Superguys: Build an App Clip and Widget
 - Testing, Evaluating, and Monitoring AI agents using AI Evaluation and OpenTelemetry
@@ -43,7 +43,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 ## Thursday Sessions (General Sessions + Bytesized Breakouts)
 
 - Building the Ultimate Safety Net with Integration Tests
-- Create multi-platform apps with .NET MAUI and the MAUI Community Toolkit
+- [Create multi-platform apps with .NET MAUI and the MAUI Community Toolkit](slides/create-multi-platform-apps-dotnet-maui.pdf)
 - [Escaping the Trap of Self-Sabotaging Meetings](slides/Escaping-the-Trap-of-Self-Sabotaging-Meetings.pdf)
 - From 3D Print to Final Product
 - Git Configuration secrets THEY don't want you to know about
@@ -119,10 +119,10 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Ditch the Compliment Sandwich: Give Feedback That Works
 - Layers Are for Lasagna: Embracing Vertical Slice Architecture
 - [You've Probably Never Heard of the Reticulum Network](https://github.com/guyroyse/youve-probably-never-heard-of-the-reticulum-network)
-- Decision Records: Understanding Why Those Decisions Were Made!
+- [Decision Records: Understanding Why Those Decisions Were Made!](https://github.com/NimblePros/conference-appearances/blob/main/2026/codemash/decision-records/README.md)
 - Fresh Hot CSS Features!
 - From Data to Insights in Minutes: Accelerating Business Development with AutoML
-- Getting Things Done for Technologists
+- [Getting Things Done for Technologists](https://kitomann.com/#/sessions/31/getting-things-done-for-technologists)
 - Is Vector Search Right for Me?
 - The Art of Breaking Things (Before Your Users Do)
 - Who Moved My Mug? Teaching a Raspberry Pi; To Spy ; With Spring-AI
@@ -135,7 +135,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - The Premortem: The Art of Killing a Project to Ensure Its Success
 - From Pixels to Plastic: Your First 3D Printed Model
 - Fundamentals of Software Engineering in the age of AI
-- Keeping Secrets Out of Your Pipeline
+- [Keeping Secrets Out of Your Pipeline](slides/KeepingSecrets.pdf)
 - Making Reality Virtual: Simulating Experiences with VR Prototyping
 - Tuning Azure App Services for Peak Performance
 - Agents That Build Themselves: How to Outlive the Hackathon
@@ -148,10 +148,11 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [Command your IoT Projects from the Terminal](../2025/slides/Command_Your_IoT_Projects_from_the_Terminal.pdf) [(txt file)](../2025/slides/Command_Your_IoT_Projects_from_the_Terminal_TEXT.txt)
 - Dungeons & Debugging: Observability, Evaluation, and Analytics battle AI Complexity
 - Mission-Critical Code: What NASA’s Power of Ten Can Teach Us
-- Model Context Protocol: A Systems Integration Perspective
+- [Model Context Protocol: A Systems Integration Perspective](./slides/Model-Context-Protocol-A-Systems-Integration-Perspective.pdf)
 - When Your Identity Gets Lost in IoT Technology
 - Yak Shaving for the Apologetic Wanderer
 - Your Manager Doesn’t Come with a User Manual (But You Can Totally Write One)
+- [Architecting for AI](https://docs.google.com/presentation/d/1MNSMjwvkIMo8iJufN-tU2i8nZcfSNHjczpQcAPKT-xM/edit?usp=sharing)
 
 ## KidzMash
 
