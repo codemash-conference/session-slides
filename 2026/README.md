@@ -5,7 +5,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 ## Tuesday Sessions (Precompilers)
 
 - [AI for Java Developers](slides/ai-for-java-developers.pdf)
-- Amazing Algorithms Workshop
+- [Amazing Algorithms Workshop](https://cognitiveinheritance.com/Presentations/ShortWorkshop/AmazingAlgorithms/index.html)
 - Distilling Intelligence: Hands-On Fine-Tuning using latest AI models
 - Energize Your Leadership: From Being Stuck to Striving
 - From Code to Cloud: Building Scalable REST APIs the Right Way
@@ -27,7 +27,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Coding Effectively with AI
 - [Elevating Trust: Tools for Leaders and Teams](https://github.com/kjenkins19/presentations/tree/main/Trust%20Foundations)
 - Hands-On AI Vision at the Edge: Building Smarter IoT Devices
-- LLMs Under the Hood
+- [LLMs Under the Hood](https://cognitiveinheritance.com/Presentations/Workshop/LLMsUnderTheHood/index.html)
 - Modern UX Without JavaScript Madness (Workshop)
 - Scaling from 1 to Infinity: Building Simpler Distributed Applications w/ the Actor Model
 - The Gumshoe Protocol
