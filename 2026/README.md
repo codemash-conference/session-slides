@@ -141,7 +141,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Agents That Build Themselves: How to Outlive the Hackathon
 - [Comparing Promises, Observables, and Signals](https://tinyurl.com/cm2026ReactivePrimitives)
 - From Idea to iOS: Rapid Prototyping with AI
-- From Power to Supply Chains: Sustainability is Security
+- [From Power to Supply Chains: Sustainability is Security](../2026/slides/Sustainability Is Security-with-notes-reduced-size.pdf)
 - Going Vertical: Signals from the Sky
 - Managing Up, Sideways, and All Around: Surviving the Human Side of Tech
 - Thinking Architecturally
@@ -158,3 +158,5 @@ These are the sessions that happened on each day, listed alphabetically by title
 
 - [Invisible Technology: Hacking with Infrared](https://bit.ly/infrared-kidzmash-2026) ([workshop](https://cjudd.github.io/hacking-infrared-workshop/))
 - [Robot Mayhem](slides/Robot-Mayhem-Kidsmash.pptx)
+- [Build Your Own Paper Computer](https://github.com/aetherical/paper-computer)
+- [Spies, Secret Messages, the Internet, and You](../2025/slides/spies-reduced-size.pdf)
